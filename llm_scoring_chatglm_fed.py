@@ -15,7 +15,7 @@ tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, trust_remote_code=True)
 logging.info("Modello caricato con successo.")
 
 # Carica il file JSON
-DATA_FILE = "dataset/fed_data.json"
+DATA_FILE = "dataset/fed_data.json" 
 logging.info(f"Caricamento dei dati da {DATA_FILE}...")
 with open(DATA_FILE, 'r') as f:
     data = json.load(f)
@@ -87,20 +87,19 @@ results = []
 logging.info("Inizio elaborazione dei dialoghi...")
 for i, dialogue in enumerate(data):
     context = dialogue.get("context", "")
-    for response_data in dialogue.get("responses", []):
-        response = response_data.get("response", "")
-        model_name = response_data.get("model", "")
-        logging.info(f"Elaborazione dialogo {i+1}, risposta del modello '{model_name}'...")
-        score = calculate_overall_score(context, response)
-        results.append({
-            "context": context,
-            "response": response,
-            "model": model_name,
-            "score": score
-        })
+    response = dialogue.get("response", "")
+    model_name = dialogue.get("system", "")
+    logging.info(f"Elaborazione dialogo {i+1}, risposta del modello '{model_name}'...")
+    score = calculate_overall_score(context, response)
+    results.append({
+        "context": context,
+        "response": response,
+        "model": model_name,
+        "score": score
+    })
 
 # Salva i risultati
-OUTPUT_FILE = "results/evaluation_results.json"
+OUTPUT_FILE = "results/evaluation_results_chatglm3-6b-base_fed.json"
 logging.info(f"Salvataggio dei risultati in {OUTPUT_FILE}...")
 with open(OUTPUT_FILE, 'w') as f:
     json.dump(results, f, indent=4)
