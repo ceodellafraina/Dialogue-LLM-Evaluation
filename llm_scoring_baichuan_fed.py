@@ -38,15 +38,13 @@ logging.info(f"Dati caricati: {len(data)} dialoghi trovati.")
 # PROMPT TEMPLATE
 # ==============================
 PROMPT_TEMPLATE = """
-### Context:
-{context}
-
-### Response:
+The given response:
 {response}
 
-### Instruction:
-Above is a dialogue context and the corresponding response.
-Question: Is the response relevant to the context?
+Is relevant to the given context?
+{context}
+
+Yes or no?
 """
 
 def generate_prompt(context, response):
