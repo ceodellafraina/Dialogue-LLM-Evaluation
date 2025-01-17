@@ -5,14 +5,13 @@ import torch.nn.functional as F
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-# Configurazione del logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # ==============================
 # CONFIGURAZIONE
 # ==============================
-MODEL_NAME = "lmsys/vicuna-13b-v1.5"
-DATA_FILE = "dataset/fed_data.json"
+MODEL_NAME = "Qwen/Qwen-14B-Chat"
+DATA_FILE = "dataset/pc_usr_data.json"
 OUTPUT_FILE = "results/evaluation_results.json"
 
 logging.info(f"Caricamento del modello {MODEL_NAME}...")
@@ -21,7 +20,7 @@ logging.info(f"Caricamento del modello {MODEL_NAME}...")
 model = AutoModelForCausalLM.from_pretrained(MODEL_NAME, trust_remote_code=True)
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, trust_remote_code=True)
 
-# Metti il modello in evaluation mode
+
 model.eval()
 
 logging.info("Modello caricato con successo.")
@@ -112,17 +111,18 @@ results = []
 logging.info("Inizio elaborazione dei dialoghi...")
 for i, dialogue in enumerate(data):
     context = dialogue.get("context", "")
-    response = dialogue.get("response", "")
-    model_name = dialogue.get("system", "")
-    logging.info(f"Elaborazione dialogo {i+1}, risposta del modello '{model_name}'...")
-    score = calculate_overall_score(context, response)
-    results.append({
-        "context": context,
-        "response": response,
-        "model": model_name,
-        "score": score
-    })
-
+    for response_data in dialogue.get("responses", []):
+        response = response_data.get("response", "")
+        model_name = response_data.get("model", "")
+        logging.info(f"Elaborazione dialogo {i+1}, risposta del modello '{model_name}'...")
+        score = calculate_overall_score(context, response)
+        results.append({
+            "context": context,
+            "response": response,
+            "model": model_name,
+            "score": score
+        })
+        
 # ==============================
 # SALVATAGGIO DEI RISULTATI
 # ==============================

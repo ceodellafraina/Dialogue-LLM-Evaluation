@@ -11,7 +11,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 # ==============================
 # CONFIGURAZIONE
 # ==============================
-MODEL_NAME = "lmsys/vicuna-13b-v1.5"
+MODEL_NAME = "Qwen/Qwen-14B-Chat"
 DATA_FILE = "dataset/fed_data.json"
 OUTPUT_FILE = "results/evaluation_results.json"
 
@@ -68,7 +68,7 @@ def calculate_overall_score(context, response):
     inputs = tokenizer(prompt, return_tensors="pt")
 
     # Ottieni gli ID dei token "Yes" e "No" (assumendo che esistano come singoli token)
-    # Se "Yes" o "No" fossero spezzati in più subword, considera di gestire la cosa diversamente.
+    
     yes_ids = tokenizer.encode("Yes", add_special_tokens=False)
     no_ids = tokenizer.encode("No", add_special_tokens=False)
     if len(yes_ids) != 1 or len(no_ids) != 1:

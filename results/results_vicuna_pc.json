@@ -1,0 +1,1802 @@
+[
+    {
+        "context": "hi there how are you doing this evening ?\nhi , sitting here with my three dogs watching the olympics !\nnice i do not want to go back to work i am a waitress\ni love being in a polyamorous open relationship !\niol well i wish i was brave enough to do that\nmy father was a salesman , helps my dog walking business now\nthat is nice i've a motorbike don't know what car to get for winter\nvery very cool . sounds fun\nyes i had them put red with blue stripes to be shinny for when racing\nso is my dog , wow so cool\nso what do you do in your spare time ?\nlead singer for a band , music teacher\nwow nice are you really good ?\nmillions of plays on soundcloud\nreally would you share or are you shy\n",
+        "response": "ha ha i'm so shy\n",
+        "model": "Original Ground Truth",
+        "score": 0.9016162200301958
+    },
+    {
+        "context": "hi there how are you doing this evening ?\nhi , sitting here with my three dogs watching the olympics !\nnice i do not want to go back to work i am a waitress\ni love being in a polyamorous open relationship !\niol well i wish i was brave enough to do that\nmy father was a salesman , helps my dog walking business now\nthat is nice i've a motorbike don't know what car to get for winter\nvery very cool . sounds fun\nyes i had them put red with blue stripes to be shinny for when racing\nso is my dog , wow so cool\nso what do you do in your spare time ?\nlead singer for a band , music teacher\nwow nice are you really good ?\nmillions of plays on soundcloud\nreally would you share or are you shy\n",
+        "response": "i know what you mean spend most nights cuddling my dog and star watching\n",
+        "model": "KV-MemNN",
+        "score": 0.8887652972051874
+    },
+    {
+        "context": "hi there how are you doing this evening ?\nhi , sitting here with my three dogs watching the olympics !\nnice i do not want to go back to work i am a waitress\ni love being in a polyamorous open relationship !\niol well i wish i was brave enough to do that\nmy father was a salesman , helps my dog walking business now\nthat is nice i've a motorbike don't know what car to get for winter\nvery very cool . sounds fun\nyes i had them put red with blue stripes to be shinny for when racing\nso is my dog , wow so cool\nso what do you do in your spare time ?\nlead singer for a band , music teacher\nwow nice are you really good ?\nmillions of plays on soundcloud\nreally would you share or are you shy\n",
+        "response": "i am a little shy but i am a little shy\n",
+        "model": "Seq2Seq",
+        "score": 0.9061295133802839
+    },
+    {
+        "context": "hi there how are you doing this evening ?\nhi , sitting here with my three dogs watching the olympics !\nnice i do not want to go back to work i am a waitress\ni love being in a polyamorous open relationship !\niol well i wish i was brave enough to do that\nmy father was a salesman , helps my dog walking business now\nthat is nice i've a motorbike don't know what car to get for winter\nvery very cool . sounds fun\nyes i had them put red with blue stripes to be shinny for when racing\nso is my dog , wow so cool\nso what do you do in your spare time ?\nlead singer for a band , music teacher\nwow nice are you really good ?\nmillions of plays on soundcloud\nreally would you share or are you shy\n",
+        "response": "i am not . i am a student .\n",
+        "model": "Language Model",
+        "score": 0.8011718905656519
+    },
+    {
+        "context": "hi there how are you doing this evening ?\nhi , sitting here with my three dogs watching the olympics !\nnice i do not want to go back to work i am a waitress\ni love being in a polyamorous open relationship !\niol well i wish i was brave enough to do that\nmy father was a salesman , helps my dog walking business now\nthat is nice i've a motorbike don't know what car to get for winter\nvery very cool . sounds fun\nyes i had them put red with blue stripes to be shinny for when racing\nso is my dog , wow so cool\nso what do you do in your spare time ?\nlead singer for a band , music teacher\nwow nice are you really good ?\nmillions of plays on soundcloud\nreally would you share or are you shy\n",
+        "response": "i only feel comfortable sharing my music with my dogs !\n",
+        "model": "New Human Generated",
+        "score": 0.9216700783444357
+    },
+    {
+        "context": "hello there , how are you ?\ni am well and you ? in honor of aim i'll ask a s l\n45 m chicago in town . just trying to stay away from the bars\ni am 37 f tampa . i like my walks on the beach and cheeseburgers in paradise .\nfunny thing is i came from farm life\ni was named after a horse . my boyfriend likes to may nay sounds at me .\nsounds like the crazy medicine i take\njust do not mix with alcohol or can get crazy around here .\ni used to be an alcoholic so no can do\ni tend to stick to my water only . soda is worse !\nthat's what everyone should strive for\nas long as i have my french fries !\nwell everyone can cheat once in a while\nof course . now all of this has made me hungry .\nyou can go for some grub\n",
+        "response": "chicago has some great places to eat too .\n",
+        "model": "Original Ground Truth",
+        "score": 0.755561441426912
+    },
+    {
+        "context": "hello there , how are you ?\ni am well and you ? in honor of aim i'll ask a s l\n45 m chicago in town . just trying to stay away from the bars\ni am 37 f tampa . i like my walks on the beach and cheeseburgers in paradise .\nfunny thing is i came from farm life\ni was named after a horse . my boyfriend likes to may nay sounds at me .\nsounds like the crazy medicine i take\njust do not mix with alcohol or can get crazy around here .\ni used to be an alcoholic so no can do\ni tend to stick to my water only . soda is worse !\nthat's what everyone should strive for\nas long as i have my french fries !\nwell everyone can cheat once in a while\nof course . now all of this has made me hungry .\nyou can go for some grub\n",
+        "response": "i will win , i am telling you . then i will drive my sx into the stars .\n",
+        "model": "KV-MemNN",
+        "score": 0.6996561752950317
+    },
+    {
+        "context": "hello there , how are you ?\ni am well and you ? in honor of aim i'll ask a s l\n45 m chicago in town . just trying to stay away from the bars\ni am 37 f tampa . i like my walks on the beach and cheeseburgers in paradise .\nfunny thing is i came from farm life\ni was named after a horse . my boyfriend likes to may nay sounds at me .\nsounds like the crazy medicine i take\njust do not mix with alcohol or can get crazy around here .\ni used to be an alcoholic so no can do\ni tend to stick to my water only . soda is worse !\nthat's what everyone should strive for\nas long as i have my french fries !\nwell everyone can cheat once in a while\nof course . now all of this has made me hungry .\nyou can go for some grub\n",
+        "response": "i will try that . i am a bit of a tea person .\n",
+        "model": "Seq2Seq",
+        "score": 0.7860070229355044
+    },
+    {
+        "context": "hello there , how are you ?\ni am well and you ? in honor of aim i'll ask a s l\n45 m chicago in town . just trying to stay away from the bars\ni am 37 f tampa . i like my walks on the beach and cheeseburgers in paradise .\nfunny thing is i came from farm life\ni was named after a horse . my boyfriend likes to may nay sounds at me .\nsounds like the crazy medicine i take\njust do not mix with alcohol or can get crazy around here .\ni used to be an alcoholic so no can do\ni tend to stick to my water only . soda is worse !\nthat's what everyone should strive for\nas long as i have my french fries !\nwell everyone can cheat once in a while\nof course . now all of this has made me hungry .\nyou can go for some grub\n",
+        "response": "i do not know what to say .\n",
+        "model": "Language Model",
+        "score": 0.8099821178905791
+    },
+    {
+        "context": "hello there , how are you ?\ni am well and you ? in honor of aim i'll ask a s l\n45 m chicago in town . just trying to stay away from the bars\ni am 37 f tampa . i like my walks on the beach and cheeseburgers in paradise .\nfunny thing is i came from farm life\ni was named after a horse . my boyfriend likes to may nay sounds at me .\nsounds like the crazy medicine i take\njust do not mix with alcohol or can get crazy around here .\ni used to be an alcoholic so no can do\ni tend to stick to my water only . soda is worse !\nthat's what everyone should strive for\nas long as i have my french fries !\nwell everyone can cheat once in a while\nof course . now all of this has made me hungry .\nyou can go for some grub\n",
+        "response": "maybe i'll take go for a walk and get a burger after .\n",
+        "model": "New Human Generated",
+        "score": 0.7977013586421858
+    },
+    {
+        "context": "hi ! how are you ? i just moved from germany to usa , nice place so far !\nthat's great , i am a grad student\ndo you have any hobbies ? i really love sky diving , rollercoasters and cooking shows !\n",
+        "response": "kayaking and reading psychology books\n",
+        "model": "Original Ground Truth",
+        "score": 0.7995360423793363
+    },
+    {
+        "context": "hi ! how are you ? i just moved from germany to usa , nice place so far !\nthat's great , i am a grad student\ndo you have any hobbies ? i really love sky diving , rollercoasters and cooking shows !\n",
+        "response": "you are going skydiving ? working on an acrylic canvas peace for a skydiving school\n",
+        "model": "KV-MemNN",
+        "score": 0.8475023095250627
+    },
+    {
+        "context": "hi ! how are you ? i just moved from germany to usa , nice place so far !\nthat's great , i am a grad student\ndo you have any hobbies ? i really love sky diving , rollercoasters and cooking shows !\n",
+        "response": "i love to read and read books\n",
+        "model": "Seq2Seq",
+        "score": 0.774890637247473
+    },
+    {
+        "context": "hi ! how are you ? i just moved from germany to usa , nice place so far !\nthat's great , i am a grad student\ndo you have any hobbies ? i really love sky diving , rollercoasters and cooking shows !\n",
+        "response": "i like to go fishing . i love to go fishing .\n",
+        "model": "Language Model",
+        "score": 0.8479264441652995
+    },
+    {
+        "context": "hi ! how are you ? i just moved from germany to usa , nice place so far !\nthat's great , i am a grad student\ndo you have any hobbies ? i really love sky diving , rollercoasters and cooking shows !\n",
+        "response": "wow skydiving sounds fun ! i enjoy reading journals about psychology and i love to kayak !\n",
+        "model": "New Human Generated",
+        "score": 0.9244350014361669
+    },
+    {
+        "context": "hello , how are you today ? do you like rabbits ?\nno i rather dog . i own two of them .\ni volunteer at a shelter , they are adorable . what do you do ?\ni'm a teacher and i love children .\nkids are great . i donate a lot of my income to several childrens programs .\ni would do that more often too if i had a larger income .\ni do not have a large income , just believe in helping others .\ndo you like gardening ? i own a garden .\ni do love gardening . i work in a shipyard .\ni love the smell of the flowers in the air .\ni do too , it is one of lifes greatest pleasures .\n",
+        "response": "you life is so short . some time you forget about the little things .\n",
+        "model": "Original Ground Truth",
+        "score": 0.8889603146292597
+    },
+    {
+        "context": "hello , how are you today ? do you like rabbits ?\nno i rather dog . i own two of them .\ni volunteer at a shelter , they are adorable . what do you do ?\ni'm a teacher and i love children .\nkids are great . i donate a lot of my income to several childrens programs .\ni would do that more often too if i had a larger income .\ni do not have a large income , just believe in helping others .\ndo you like gardening ? i own a garden .\ni do love gardening . i work in a shipyard .\ni love the smell of the flowers in the air .\ni do too , it is one of lifes greatest pleasures .\n",
+        "response": "oh , you should start a rose garden\n",
+        "model": "KV-MemNN",
+        "score": 0.8280707756322184
+    },
+    {
+        "context": "hello , how are you today ? do you like rabbits ?\nno i rather dog . i own two of them .\ni volunteer at a shelter , they are adorable . what do you do ?\ni'm a teacher and i love children .\nkids are great . i donate a lot of my income to several childrens programs .\ni would do that more often too if i had a larger income .\ni do not have a large income , just believe in helping others .\ndo you like gardening ? i own a garden .\ni do love gardening . i work in a shipyard .\ni love the smell of the flowers in the air .\ni do too , it is one of lifes greatest pleasures .\n",
+        "response": "i love the outdoors . i love to garden .\n",
+        "model": "Seq2Seq",
+        "score": 0.9249830318299391
+    },
+    {
+        "context": "hello , how are you today ? do you like rabbits ?\nno i rather dog . i own two of them .\ni volunteer at a shelter , they are adorable . what do you do ?\ni'm a teacher and i love children .\nkids are great . i donate a lot of my income to several childrens programs .\ni would do that more often too if i had a larger income .\ni do not have a large income , just believe in helping others .\ndo you like gardening ? i own a garden .\ni do love gardening . i work in a shipyard .\ni love the smell of the flowers in the air .\ni do too , it is one of lifes greatest pleasures .\n",
+        "response": "i like to eat too much junk food .\n",
+        "model": "Language Model",
+        "score": 0.6189752314678755
+    },
+    {
+        "context": "hello , how are you today ? do you like rabbits ?\nno i rather dog . i own two of them .\ni volunteer at a shelter , they are adorable . what do you do ?\ni'm a teacher and i love children .\nkids are great . i donate a lot of my income to several childrens programs .\ni would do that more often too if i had a larger income .\ni do not have a large income , just believe in helping others .\ndo you like gardening ? i own a garden .\ni do love gardening . i work in a shipyard .\ni love the smell of the flowers in the air .\ni do too , it is one of lifes greatest pleasures .\n",
+        "response": "one of my greatest pleasures is going to church every week . \n",
+        "model": "New Human Generated",
+        "score": 0.7693722609170348
+    },
+    {
+        "context": "hello ! who am i speaking with today ?\nhi , my name is taylor . you might know my dad , he was a construction worker .\ni may very well . what he in the military ? i was .\nno , do you like coffee ? because i love it !\nno . i don't drink coffee .\nwhat ? well how about alcohol , i hate alcohol and the color pink\ni don't drink alcohol . my favorite color is blue . navy blue .\n",
+        "response": "i love blue too , i also enjoy mountain biking . have you ever tried it ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.9130398718793532
+    },
+    {
+        "context": "hello ! who am i speaking with today ?\nhi , my name is taylor . you might know my dad , he was a construction worker .\ni may very well . what he in the military ? i was .\nno , do you like coffee ? because i love it !\nno . i don't drink coffee .\nwhat ? well how about alcohol , i hate alcohol and the color pink\ni don't drink alcohol . my favorite color is blue . navy blue .\n",
+        "response": "i like pink , i think blue is too masculine color .\n",
+        "model": "KV-MemNN",
+        "score": 0.8952174018425565
+    },
+    {
+        "context": "hello ! who am i speaking with today ?\nhi , my name is taylor . you might know my dad , he was a construction worker .\ni may very well . what he in the military ? i was .\nno , do you like coffee ? because i love it !\nno . i don't drink coffee .\nwhat ? well how about alcohol , i hate alcohol and the color pink\ni don't drink alcohol . my favorite color is blue . navy blue .\n",
+        "response": "i like blue , but i like to go mountain bike .\n",
+        "model": "Seq2Seq",
+        "score": 0.829923471206969
+    },
+    {
+        "context": "hello ! who am i speaking with today ?\nhi , my name is taylor . you might know my dad , he was a construction worker .\ni may very well . what he in the military ? i was .\nno , do you like coffee ? because i love it !\nno . i don't drink coffee .\nwhat ? well how about alcohol , i hate alcohol and the color pink\ni don't drink alcohol . my favorite color is blue . navy blue .\n",
+        "response": "i like red , reminds me of summer time .\n",
+        "model": "Language Model",
+        "score": 0.8754367575652594
+    },
+    {
+        "context": "hello ! who am i speaking with today ?\nhi , my name is taylor . you might know my dad , he was a construction worker .\ni may very well . what he in the military ? i was .\nno , do you like coffee ? because i love it !\nno . i don't drink coffee .\nwhat ? well how about alcohol , i hate alcohol and the color pink\ni don't drink alcohol . my favorite color is blue . navy blue .\n",
+        "response": "do you have any hobbies ? i enjoy mountain biking !\n",
+        "model": "New Human Generated",
+        "score": 0.9094332951597444
+    },
+    {
+        "context": "hello . how are you today ?\ni am a geek , because i love programming study for it now\ni am a construction worker . i do not know much about computers\ni am doing good , and you ? i also teach swimming locally\nthat must be interesting . i don't have time outside of house building to do much\nthat is fine , do you like death metal music ?\nno , not really . i'm more into stuff from the eighties .\ni see , i'm from india and you ?\nohio . pretty boring , really . just me and my 5 cats . do you have pets ?\ndo you like eighties music ? i love it .\nyep . absolutely . great stuff . bon jovi , poison , journey . . . all the hair bands\nno , i had a dog and a turtle in the past\nthat is cool . why don't you have pets now ?\nyeah , i love those bands , you like hard stuff ?\nlike metallica ? they are definitely cool .\n",
+        "response": "i do not want to talk about my pets\n",
+        "model": "Original Ground Truth",
+        "score": 0.8524981963527698
+    },
+    {
+        "context": "hello . how are you today ?\ni am a geek , because i love programming study for it now\ni am a construction worker . i do not know much about computers\ni am doing good , and you ? i also teach swimming locally\nthat must be interesting . i don't have time outside of house building to do much\nthat is fine , do you like death metal music ?\nno , not really . i'm more into stuff from the eighties .\ni see , i'm from india and you ?\nohio . pretty boring , really . just me and my 5 cats . do you have pets ?\ndo you like eighties music ? i love it .\nyep . absolutely . great stuff . bon jovi , poison , journey . . . all the hair bands\nno , i had a dog and a turtle in the past\nthat is cool . why don't you have pets now ?\nyeah , i love those bands , you like hard stuff ?\nlike metallica ? they are definitely cool .\n",
+        "response": "yeah , i definitely like rock more than metal .\n",
+        "model": "KV-MemNN",
+        "score": 0.7151586971250286
+    },
+    {
+        "context": "hello . how are you today ?\ni am a geek , because i love programming study for it now\ni am a construction worker . i do not know much about computers\ni am doing good , and you ? i also teach swimming locally\nthat must be interesting . i don't have time outside of house building to do much\nthat is fine , do you like death metal music ?\nno , not really . i'm more into stuff from the eighties .\ni see , i'm from india and you ?\nohio . pretty boring , really . just me and my 5 cats . do you have pets ?\ndo you like eighties music ? i love it .\nyep . absolutely . great stuff . bon jovi , poison , journey . . . all the hair bands\nno , i had a dog and a turtle in the past\nthat is cool . why don't you have pets now ?\nyeah , i love those bands , you like hard stuff ?\nlike metallica ? they are definitely cool .\n",
+        "response": "i like them too . they are my favorite .\n",
+        "model": "Seq2Seq",
+        "score": 0.8727213673196503
+    },
+    {
+        "context": "hello . how are you today ?\ni am a geek , because i love programming study for it now\ni am a construction worker . i do not know much about computers\ni am doing good , and you ? i also teach swimming locally\nthat must be interesting . i don't have time outside of house building to do much\nthat is fine , do you like death metal music ?\nno , not really . i'm more into stuff from the eighties .\ni see , i'm from india and you ?\nohio . pretty boring , really . just me and my 5 cats . do you have pets ?\ndo you like eighties music ? i love it .\nyep . absolutely . great stuff . bon jovi , poison , journey . . . all the hair bands\nno , i had a dog and a turtle in the past\nthat is cool . why don't you have pets now ?\nyeah , i love those bands , you like hard stuff ?\nlike metallica ? they are definitely cool .\n",
+        "response": "i do , i like to go out to eat with my family .\n",
+        "model": "Language Model",
+        "score": 0.8576094588108126
+    },
+    {
+        "context": "hello . how are you today ?\ni am a geek , because i love programming study for it now\ni am a construction worker . i do not know much about computers\ni am doing good , and you ? i also teach swimming locally\nthat must be interesting . i don't have time outside of house building to do much\nthat is fine , do you like death metal music ?\nno , not really . i'm more into stuff from the eighties .\ni see , i'm from india and you ?\nohio . pretty boring , really . just me and my 5 cats . do you have pets ?\ndo you like eighties music ? i love it .\nyep . absolutely . great stuff . bon jovi , poison , journey . . . all the hair bands\nno , i had a dog and a turtle in the past\nthat is cool . why don't you have pets now ?\nyeah , i love those bands , you like hard stuff ?\nlike metallica ? they are definitely cool .\n",
+        "response": "yes ! i love blasting death metal while programming .\n",
+        "model": "New Human Generated",
+        "score": 0.80011173357767
+    },
+    {
+        "context": "hey . where are you from ? i'm from a farm in wisconsin\ni love ice cream what is your favorite ? mine is chocolate\nmine is mint chocolate chip\n",
+        "response": "i love wife and my kids they love chocolate ice cream also\n",
+        "model": "Original Ground Truth",
+        "score": 0.8636639307802373
+    },
+    {
+        "context": "hey . where are you from ? i'm from a farm in wisconsin\ni love ice cream what is your favorite ? mine is chocolate\nmine is mint chocolate chip\n",
+        "response": "i get up early everyday and eat ice cream\n",
+        "model": "KV-MemNN",
+        "score": 0.5978653849986505
+    },
+    {
+        "context": "hey . where are you from ? i'm from a farm in wisconsin\ni love ice cream what is your favorite ? mine is chocolate\nmine is mint chocolate chip\n",
+        "response": "i like chocolate chip cookies\n",
+        "model": "Seq2Seq",
+        "score": 0.8423650955704437
+    },
+    {
+        "context": "hey . where are you from ? i'm from a farm in wisconsin\ni love ice cream what is your favorite ? mine is chocolate\nmine is mint chocolate chip\n",
+        "response": "i like the color red . i like the color blue .\n",
+        "model": "Language Model",
+        "score": 0.7249959795120007
+    },
+    {
+        "context": "hey . where are you from ? i'm from a farm in wisconsin\ni love ice cream what is your favorite ? mine is chocolate\nmine is mint chocolate chip\n",
+        "response": "my three kids love mint chocolate chip ! \n",
+        "model": "New Human Generated",
+        "score": 0.8961395792157326
+    },
+    {
+        "context": "hi . how are you ?\nhello , i am very well . and you ?\ni am good . do you have a favorite band ?\ni do , i love metallica , i never heard them in india .\ni love the rolling stones . i see their concert every year .\nthey are great too . so are the chili peppers .\nyes . they're . what do you do ?\ni am in college , studying it .\ni'm too . economics major .\nvery nice . i'd love to travel .\nthat would be great ! we just bought a house so no travel soon\ni am looking at a house as well .\ni'm married and have two kids . we needed more space .\ni'd like children and a husband one day .\ni follow a raw diet . do you ?\n",
+        "response": "oh no . i prepare traditional dishes .\n",
+        "model": "Original Ground Truth",
+        "score": 0.6063629118806384
+    },
+    {
+        "context": "hi . how are you ?\nhello , i am very well . and you ?\ni am good . do you have a favorite band ?\ni do , i love metallica , i never heard them in india .\ni love the rolling stones . i see their concert every year .\nthey are great too . so are the chili peppers .\nyes . they're . what do you do ?\ni am in college , studying it .\ni'm too . economics major .\nvery nice . i'd love to travel .\nthat would be great ! we just bought a house so no travel soon\ni am looking at a house as well .\ni'm married and have two kids . we needed more space .\ni'd like children and a husband one day .\ni follow a raw diet . do you ?\n",
+        "response": "i have a brother who lives in england , but sometimes he goes to my timeshare in mexico\n",
+        "model": "KV-MemNN",
+        "score": 0.6048986320955857
+    },
+    {
+        "context": "hi . how are you ?\nhello , i am very well . and you ?\ni am good . do you have a favorite band ?\ni do , i love metallica , i never heard them in india .\ni love the rolling stones . i see their concert every year .\nthey are great too . so are the chili peppers .\nyes . they're . what do you do ?\ni am in college , studying it .\ni'm too . economics major .\nvery nice . i'd love to travel .\nthat would be great ! we just bought a house so no travel soon\ni am looking at a house as well .\ni'm married and have two kids . we needed more space .\ni'd like children and a husband one day .\ni follow a raw diet . do you ?\n",
+        "response": "i do . i love to swim .\n",
+        "model": "Seq2Seq",
+        "score": 0.7372368718279446
+    },
+    {
+        "context": "hi . how are you ?\nhello , i am very well . and you ?\ni am good . do you have a favorite band ?\ni do , i love metallica , i never heard them in india .\ni love the rolling stones . i see their concert every year .\nthey are great too . so are the chili peppers .\nyes . they're . what do you do ?\ni am in college , studying it .\ni'm too . economics major .\nvery nice . i'd love to travel .\nthat would be great ! we just bought a house so no travel soon\ni am looking at a house as well .\ni'm married and have two kids . we needed more space .\ni'd like children and a husband one day .\ni follow a raw diet . do you ?\n",
+        "response": "i do not , but i do like to eat .\n",
+        "model": "Language Model",
+        "score": 0.627105275135116
+    },
+    {
+        "context": "hi . how are you ?\nhello , i am very well . and you ?\ni am good . do you have a favorite band ?\ni do , i love metallica , i never heard them in india .\ni love the rolling stones . i see their concert every year .\nthey are great too . so are the chili peppers .\nyes . they're . what do you do ?\ni am in college , studying it .\ni'm too . economics major .\nvery nice . i'd love to travel .\nthat would be great ! we just bought a house so no travel soon\ni am looking at a house as well .\ni'm married and have two kids . we needed more space .\ni'd like children and a husband one day .\ni follow a raw diet . do you ?\n",
+        "response": "i don't watch my diet , but i spend a lot of time at my local pool . i'm a swim coach !\n",
+        "model": "New Human Generated",
+        "score": 0.6433166039132583
+    },
+    {
+        "context": "hi ! i don't like the color orange .\nhello . i like to shoot hoops , so orange balls are good with me .\nthat's amazing . i like dancing on weekends . you ?\nright now i am applying for jobs , i want to work in a restaurant .\nthat is amazing . good luck . i do not like fashion though .\ni get you , my favorite rapper is pretty stylish , travis scott .\ni totally like travis . i liked doing chemistry too\nawesome . my mom wanted to be a chemist , but ended up a dentist ! go figure !\nit seems to be hard to be a chemist . what do you do ?\nunemployed at the moment , i really want to work at a snazzy restaurant .\nyou will get it . do not worry . i now work in a nice bookstore .\n",
+        "response": "i love to read . i'd rack up a big bill working in a bookstore .\n",
+        "model": "Original Ground Truth",
+        "score": 0.7782731721465453
+    },
+    {
+        "context": "hi ! i don't like the color orange .\nhello . i like to shoot hoops , so orange balls are good with me .\nthat's amazing . i like dancing on weekends . you ?\nright now i am applying for jobs , i want to work in a restaurant .\nthat is amazing . good luck . i do not like fashion though .\ni get you , my favorite rapper is pretty stylish , travis scott .\ni totally like travis . i liked doing chemistry too\nawesome . my mom wanted to be a chemist , but ended up a dentist ! go figure !\nit seems to be hard to be a chemist . what do you do ?\nunemployed at the moment , i really want to work at a snazzy restaurant .\nyou will get it . do not worry . i now work in a nice bookstore .\n",
+        "response": "i actually wait tables in a restaurant , you ?\n",
+        "model": "KV-MemNN",
+        "score": 0.8197930428720528
+    },
+    {
+        "context": "hi ! i don't like the color orange .\nhello . i like to shoot hoops , so orange balls are good with me .\nthat's amazing . i like dancing on weekends . you ?\nright now i am applying for jobs , i want to work in a restaurant .\nthat is amazing . good luck . i do not like fashion though .\ni get you , my favorite rapper is pretty stylish , travis scott .\ni totally like travis . i liked doing chemistry too\nawesome . my mom wanted to be a chemist , but ended up a dentist ! go figure !\nit seems to be hard to be a chemist . what do you do ?\nunemployed at the moment , i really want to work at a snazzy restaurant .\nyou will get it . do not worry . i now work in a nice bookstore .\n",
+        "response": "i am looking for a job at a restaurant .\n",
+        "model": "Seq2Seq",
+        "score": 0.6371428185477698
+    },
+    {
+        "context": "hi ! i don't like the color orange .\nhello . i like to shoot hoops , so orange balls are good with me .\nthat's amazing . i like dancing on weekends . you ?\nright now i am applying for jobs , i want to work in a restaurant .\nthat is amazing . good luck . i do not like fashion though .\ni get you , my favorite rapper is pretty stylish , travis scott .\ni totally like travis . i liked doing chemistry too\nawesome . my mom wanted to be a chemist , but ended up a dentist ! go figure !\nit seems to be hard to be a chemist . what do you do ?\nunemployed at the moment , i really want to work at a snazzy restaurant .\nyou will get it . do not worry . i now work in a nice bookstore .\n",
+        "response": "i am a student , but i am a student .\n",
+        "model": "Language Model",
+        "score": 0.7826773974789536
+    },
+    {
+        "context": "hi ! i don't like the color orange .\nhello . i like to shoot hoops , so orange balls are good with me .\nthat's amazing . i like dancing on weekends . you ?\nright now i am applying for jobs , i want to work in a restaurant .\nthat is amazing . good luck . i do not like fashion though .\ni get you , my favorite rapper is pretty stylish , travis scott .\ni totally like travis . i liked doing chemistry too\nawesome . my mom wanted to be a chemist , but ended up a dentist ! go figure !\nit seems to be hard to be a chemist . what do you do ?\nunemployed at the moment , i really want to work at a snazzy restaurant .\nyou will get it . do not worry . i now work in a nice bookstore .\n",
+        "response": "that's awesome ! anyway , i'm going to go play basketball now .\n",
+        "model": "New Human Generated",
+        "score": 0.7842842025822281
+    },
+    {
+        "context": "hello . do you speak another language ?\nhi , i love sports because my parents are athletic\nmy dad is works with electronics . i love the guitar and the violin\n",
+        "response": "i do speak another language and you ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.7541947150483491
+    },
+    {
+        "context": "hello . do you speak another language ?\nhi , i love sports because my parents are athletic\nmy dad is works with electronics . i love the guitar and the violin\n",
+        "response": "oh , cool ! electric or acoustic ? me , just got back from running to soccer practice\n",
+        "model": "KV-MemNN",
+        "score": 0.733306597517158
+    },
+    {
+        "context": "hello . do you speak another language ?\nhi , i love sports because my parents are athletic\nmy dad is works with electronics . i love the guitar and the violin\n",
+        "response": "i love to run and do marathons .\n",
+        "model": "Seq2Seq",
+        "score": 0.6291215220436116
+    },
+    {
+        "context": "hello . do you speak another language ?\nhi , i love sports because my parents are athletic\nmy dad is works with electronics . i love the guitar and the violin\n",
+        "response": "i like to go fishing .\n",
+        "model": "Language Model",
+        "score": 0.6497804580803991
+    },
+    {
+        "context": "hello . do you speak another language ?\nhi , i love sports because my parents are athletic\nmy dad is works with electronics . i love the guitar and the violin\n",
+        "response": "wow you're very musical ! i recently got hired as a life coach !\n",
+        "model": "New Human Generated",
+        "score": 0.6932359129890141
+    },
+    {
+        "context": "hello i am 60 years old\nhi ! i just sat down to listen to some classical music .\ni love classical music as a librarian its my favorite\nbeing a christian i also like christian rock . do you like to read ?\ni love to read , i have been to spain and while there i read more than ever\nnever been there . i love to ride on my tractor . i love the outdoors .\ni'll be retiring in a few years , do you like camping ?\ni do ! i am very different from my sister . she is a pole dancer in a club .\nthat is a big difference . when you camp , how do you cook ?\nwith a campfire and cast iron pans .\ni will love relaxing in nature .\ni just purchased a beautiful red sweater . red is my absolute favorite color .\nthat's perfect for the holidays . i love to sew sweaters and hoodies .\ni love to crochet ! it is time to start thinking about the holidays !\nyes , i sometimes use a loom for crochet too .\n",
+        "response": "i never used a loom but will have to try sometime .\n",
+        "model": "Original Ground Truth",
+        "score": 0.7329658893709818
+    },
+    {
+        "context": "hello i am 60 years old\nhi ! i just sat down to listen to some classical music .\ni love classical music as a librarian its my favorite\nbeing a christian i also like christian rock . do you like to read ?\ni love to read , i have been to spain and while there i read more than ever\nnever been there . i love to ride on my tractor . i love the outdoors .\ni'll be retiring in a few years , do you like camping ?\ni do ! i am very different from my sister . she is a pole dancer in a club .\nthat is a big difference . when you camp , how do you cook ?\nwith a campfire and cast iron pans .\ni will love relaxing in nature .\ni just purchased a beautiful red sweater . red is my absolute favorite color .\nthat's perfect for the holidays . i love to sew sweaters and hoodies .\ni love to crochet ! it is time to start thinking about the holidays !\nyes , i sometimes use a loom for crochet too .\n",
+        "response": "i like red . i dyed my hair red .\n",
+        "model": "KV-MemNN",
+        "score": 0.7356711385348897
+    },
+    {
+        "context": "hello i am 60 years old\nhi ! i just sat down to listen to some classical music .\ni love classical music as a librarian its my favorite\nbeing a christian i also like christian rock . do you like to read ?\ni love to read , i have been to spain and while there i read more than ever\nnever been there . i love to ride on my tractor . i love the outdoors .\ni'll be retiring in a few years , do you like camping ?\ni do ! i am very different from my sister . she is a pole dancer in a club .\nthat is a big difference . when you camp , how do you cook ?\nwith a campfire and cast iron pans .\ni will love relaxing in nature .\ni just purchased a beautiful red sweater . red is my absolute favorite color .\nthat's perfect for the holidays . i love to sew sweaters and hoodies .\ni love to crochet ! it is time to start thinking about the holidays !\nyes , i sometimes use a loom for crochet too .\n",
+        "response": "i love to sew and make clothes .\n",
+        "model": "Seq2Seq",
+        "score": 0.7505073966901126
+    },
+    {
+        "context": "hello i am 60 years old\nhi ! i just sat down to listen to some classical music .\ni love classical music as a librarian its my favorite\nbeing a christian i also like christian rock . do you like to read ?\ni love to read , i have been to spain and while there i read more than ever\nnever been there . i love to ride on my tractor . i love the outdoors .\ni'll be retiring in a few years , do you like camping ?\ni do ! i am very different from my sister . she is a pole dancer in a club .\nthat is a big difference . when you camp , how do you cook ?\nwith a campfire and cast iron pans .\ni will love relaxing in nature .\ni just purchased a beautiful red sweater . red is my absolute favorite color .\nthat's perfect for the holidays . i love to sew sweaters and hoodies .\ni love to crochet ! it is time to start thinking about the holidays !\nyes , i sometimes use a loom for crochet too .\n",
+        "response": "i like to eat fish .\n",
+        "model": "Language Model",
+        "score": 0.6159854369549537
+    },
+    {
+        "context": "hello i am 60 years old\nhi ! i just sat down to listen to some classical music .\ni love classical music as a librarian its my favorite\nbeing a christian i also like christian rock . do you like to read ?\ni love to read , i have been to spain and while there i read more than ever\nnever been there . i love to ride on my tractor . i love the outdoors .\ni'll be retiring in a few years , do you like camping ?\ni do ! i am very different from my sister . she is a pole dancer in a club .\nthat is a big difference . when you camp , how do you cook ?\nwith a campfire and cast iron pans .\ni will love relaxing in nature .\ni just purchased a beautiful red sweater . red is my absolute favorite color .\nthat's perfect for the holidays . i love to sew sweaters and hoodies .\ni love to crochet ! it is time to start thinking about the holidays !\nyes , i sometimes use a loom for crochet too .\n",
+        "response": "cool ! do you celebrate christmas ? as a christian , it's one of my favorite times of the year !\n",
+        "model": "New Human Generated",
+        "score": 0.7785378562283628
+    },
+    {
+        "context": "i there i'm from pennsylvania . how about you ?\ni'm in ohio . we are almost neighbors .\ni know . do you have any kids ? i am expecting my first child soon .\ncongratulations ! i do not have any kids . the musician lifestyle is too hard for that .\noh that sounds exciting . i just became a pa 3 months ago . my job is boring .\ni'm sorry to hear that . is there something you would rather be doing ?\nmaking documentaries because i love them .\nwow . that sounds pretty interesting . what subjects would you focus on ?\nmy husband and his job\nwow . he must be a pretty interesting guy if you are going to do a documentary .\nhe is the best that's why i let him impregnate me\n",
+        "response": "so what else do you like to do besides make documentaries ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.5458210118421506
+    },
+    {
+        "context": "i there i'm from pennsylvania . how about you ?\ni'm in ohio . we are almost neighbors .\ni know . do you have any kids ? i am expecting my first child soon .\ncongratulations ! i do not have any kids . the musician lifestyle is too hard for that .\noh that sounds exciting . i just became a pa 3 months ago . my job is boring .\ni'm sorry to hear that . is there something you would rather be doing ?\nmaking documentaries because i love them .\nwow . that sounds pretty interesting . what subjects would you focus on ?\nmy husband and his job\nwow . he must be a pretty interesting guy if you are going to do a documentary .\nhe is the best that's why i let him impregnate me\n",
+        "response": "he is awesome . he is a musician and his music ironic for my life\n",
+        "model": "KV-MemNN",
+        "score": 0.6577862017372131
+    },
+    {
+        "context": "i there i'm from pennsylvania . how about you ?\ni'm in ohio . we are almost neighbors .\ni know . do you have any kids ? i am expecting my first child soon .\ncongratulations ! i do not have any kids . the musician lifestyle is too hard for that .\noh that sounds exciting . i just became a pa 3 months ago . my job is boring .\ni'm sorry to hear that . is there something you would rather be doing ?\nmaking documentaries because i love them .\nwow . that sounds pretty interesting . what subjects would you focus on ?\nmy husband and his job\nwow . he must be a pretty interesting guy if you are going to do a documentary .\nhe is the best that's why i let him impregnate me\n",
+        "response": "i am not sure . i am a musician .\n",
+        "model": "Seq2Seq",
+        "score": 0.47445283829454493
+    },
+    {
+        "context": "i there i'm from pennsylvania . how about you ?\ni'm in ohio . we are almost neighbors .\ni know . do you have any kids ? i am expecting my first child soon .\ncongratulations ! i do not have any kids . the musician lifestyle is too hard for that .\noh that sounds exciting . i just became a pa 3 months ago . my job is boring .\ni'm sorry to hear that . is there something you would rather be doing ?\nmaking documentaries because i love them .\nwow . that sounds pretty interesting . what subjects would you focus on ?\nmy husband and his job\nwow . he must be a pretty interesting guy if you are going to do a documentary .\nhe is the best that's why i let him impregnate me\n",
+        "response": "i am sorry to hear that . do you have any hobbies ?\n",
+        "model": "Language Model",
+        "score": 0.6131024139317188
+    },
+    {
+        "context": "i there i'm from pennsylvania . how about you ?\ni'm in ohio . we are almost neighbors .\ni know . do you have any kids ? i am expecting my first child soon .\ncongratulations ! i do not have any kids . the musician lifestyle is too hard for that .\noh that sounds exciting . i just became a pa 3 months ago . my job is boring .\ni'm sorry to hear that . is there something you would rather be doing ?\nmaking documentaries because i love them .\nwow . that sounds pretty interesting . what subjects would you focus on ?\nmy husband and his job\nwow . he must be a pretty interesting guy if you are going to do a documentary .\nhe is the best that's why i let him impregnate me\n",
+        "response": "wow . i'm interested in languages and love to learn them . i would definitely watch a documentary about languages !\n",
+        "model": "New Human Generated",
+        "score": 0.48126839099219054
+    },
+    {
+        "context": "hello ! are you interested in adopting a rescued bunny ?\ni love bunnies but i'm busy moving into a new apartment with my boyfriend\ni'd have loved to live with my girlfriend before i went into the navy\nthe navy sounds tough . i teach elementary school .\ni only joined because i love the color . i much prefer working with the bunny rescue , now .\ni would like to take pictures of the bunnies . do you help alot of rabbits ?\nyes , by volunteering and donating to them each month . what do take pictures of ?\ni just enjoy photography and the colors red and silver .\ni've a silver eared bunny you would love , with a red , white , and navy blue bow .\n",
+        "response": "your bunny sounds adorable . bunnies are very gentle and quiet animals\n",
+        "model": "Original Ground Truth",
+        "score": 0.884086105440142
+    },
+    {
+        "context": "hello ! are you interested in adopting a rescued bunny ?\ni love bunnies but i'm busy moving into a new apartment with my boyfriend\ni'd have loved to live with my girlfriend before i went into the navy\nthe navy sounds tough . i teach elementary school .\ni only joined because i love the color . i much prefer working with the bunny rescue , now .\ni would like to take pictures of the bunnies . do you help alot of rabbits ?\nyes , by volunteering and donating to them each month . what do take pictures of ?\ni just enjoy photography and the colors red and silver .\ni've a silver eared bunny you would love , with a red , white , and navy blue bow .\n",
+        "response": "i love the color red . who is your favorite band ?\n",
+        "model": "KV-MemNN",
+        "score": 0.5980985599808419
+    },
+    {
+        "context": "hello ! are you interested in adopting a rescued bunny ?\ni love bunnies but i'm busy moving into a new apartment with my boyfriend\ni'd have loved to live with my girlfriend before i went into the navy\nthe navy sounds tough . i teach elementary school .\ni only joined because i love the color . i much prefer working with the bunny rescue , now .\ni would like to take pictures of the bunnies . do you help alot of rabbits ?\nyes , by volunteering and donating to them each month . what do take pictures of ?\ni just enjoy photography and the colors red and silver .\ni've a silver eared bunny you would love , with a red , white , and navy blue bow .\n",
+        "response": "i love the color red and my favorite color is red\n",
+        "model": "Seq2Seq",
+        "score": 0.6839761115904907
+    },
+    {
+        "context": "hello ! are you interested in adopting a rescued bunny ?\ni love bunnies but i'm busy moving into a new apartment with my boyfriend\ni'd have loved to live with my girlfriend before i went into the navy\nthe navy sounds tough . i teach elementary school .\ni only joined because i love the color . i much prefer working with the bunny rescue , now .\ni would like to take pictures of the bunnies . do you help alot of rabbits ?\nyes , by volunteering and donating to them each month . what do take pictures of ?\ni just enjoy photography and the colors red and silver .\ni've a silver eared bunny you would love , with a red , white , and navy blue bow .\n",
+        "response": "i like the color red . i like red .\n",
+        "model": "Language Model",
+        "score": 0.6522474649903943
+    },
+    {
+        "context": "hello ! are you interested in adopting a rescued bunny ?\ni love bunnies but i'm busy moving into a new apartment with my boyfriend\ni'd have loved to live with my girlfriend before i went into the navy\nthe navy sounds tough . i teach elementary school .\ni only joined because i love the color . i much prefer working with the bunny rescue , now .\ni would like to take pictures of the bunnies . do you help alot of rabbits ?\nyes , by volunteering and donating to them each month . what do take pictures of ?\ni just enjoy photography and the colors red and silver .\ni've a silver eared bunny you would love , with a red , white , and navy blue bow .\n",
+        "response": "it sounsd great ! maybe i can keep it as a class pet at my elementary school .\n",
+        "model": "New Human Generated",
+        "score": 0.9350490995771625
+    },
+    {
+        "context": "hello hope your having a good night tonight ? i know i am .\nthat is good ! i am watching football highlights .\nreally what teams . and who are you rooting for .\ni'm a green bay packer fan . do you like football ?\nno i am not a fan but my son is .\nhow many kids do you have ?\n2 children both fully grow . they never drop by .\ni have kids too . i also have a couple pets .\npets ? what kind dogs cats fish or birds ?\n",
+        "response": "i've two dogs . what about you ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.8458658557682949
+    },
+    {
+        "context": "hello hope your having a good night tonight ? i know i am .\nthat is good ! i am watching football highlights .\nreally what teams . and who are you rooting for .\ni'm a green bay packer fan . do you like football ?\nno i am not a fan but my son is .\nhow many kids do you have ?\n2 children both fully grow . they never drop by .\ni have kids too . i also have a couple pets .\npets ? what kind dogs cats fish or birds ?\n",
+        "response": "what kind of dogs do you have .\n",
+        "model": "KV-MemNN",
+        "score": 0.8533108246762848
+    },
+    {
+        "context": "hello hope your having a good night tonight ? i know i am .\nthat is good ! i am watching football highlights .\nreally what teams . and who are you rooting for .\ni'm a green bay packer fan . do you like football ?\nno i am not a fan but my son is .\nhow many kids do you have ?\n2 children both fully grow . they never drop by .\ni have kids too . i also have a couple pets .\npets ? what kind dogs cats fish or birds ?\n",
+        "response": "i have a dog and a cat .\n",
+        "model": "Seq2Seq",
+        "score": 0.8588992075250376
+    },
+    {
+        "context": "hello hope your having a good night tonight ? i know i am .\nthat is good ! i am watching football highlights .\nreally what teams . and who are you rooting for .\ni'm a green bay packer fan . do you like football ?\nno i am not a fan but my son is .\nhow many kids do you have ?\n2 children both fully grow . they never drop by .\ni have kids too . i also have a couple pets .\npets ? what kind dogs cats fish or birds ?\n",
+        "response": "i do not have any pets , but i do like to go fishing .\n",
+        "model": "Language Model",
+        "score": 0.8313822189141273
+    },
+    {
+        "context": "hello hope your having a good night tonight ? i know i am .\nthat is good ! i am watching football highlights .\nreally what teams . and who are you rooting for .\ni'm a green bay packer fan . do you like football ?\nno i am not a fan but my son is .\nhow many kids do you have ?\n2 children both fully grow . they never drop by .\ni have kids too . i also have a couple pets .\npets ? what kind dogs cats fish or birds ?\n",
+        "response": "i have a dog . i love to play catch with him in my front yard !\n",
+        "model": "New Human Generated",
+        "score": 0.9256289128370873
+    },
+    {
+        "context": "my name is joan , and i live in illinois . i'm a kindergarten teacher .\nhello joan ! i'm chrissy from minnesota . i'm building a robot for my work .\nthat sounds exciting ! i'm clumsy with electronics .\n",
+        "response": "this robot will help me because i'm allergic to water ! do you enjoy teaching ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.7496478590175274
+    },
+    {
+        "context": "my name is joan , and i live in illinois . i'm a kindergarten teacher .\nhello joan ! i'm chrissy from minnesota . i'm building a robot for my work .\nthat sounds exciting ! i'm clumsy with electronics .\n",
+        "response": "the nearest one to me is a long drive a away , but i do not mind .\n",
+        "model": "KV-MemNN",
+        "score": 0.8463807850232814
+    },
+    {
+        "context": "my name is joan , and i live in illinois . i'm a kindergarten teacher .\nhello joan ! i'm chrissy from minnesota . i'm building a robot for my work .\nthat sounds exciting ! i'm clumsy with electronics .\n",
+        "response": "i am a huge sports fan . i am a huge fan of gaming .\n",
+        "model": "Seq2Seq",
+        "score": 0.7709028404036522
+    },
+    {
+        "context": "my name is joan , and i live in illinois . i'm a kindergarten teacher .\nhello joan ! i'm chrissy from minnesota . i'm building a robot for my work .\nthat sounds exciting ! i'm clumsy with electronics .\n",
+        "response": "i am sorry to hear that . i am a nurse .\n",
+        "model": "Language Model",
+        "score": 0.7154469015810137
+    },
+    {
+        "context": "my name is joan , and i live in illinois . i'm a kindergarten teacher .\nhello joan ! i'm chrissy from minnesota . i'm building a robot for my work .\nthat sounds exciting ! i'm clumsy with electronics .\n",
+        "response": "i love electronics . i helped design the game starcraft ! have you played it ?\n",
+        "model": "New Human Generated",
+        "score": 0.6776025700849131
+    },
+    {
+        "context": "hi , i am taking a break from studying my computer programming\nwhat is computer programming , i am new to the united states .\ni'm from india so i understand . it is telling computers how to run programs\ncool , i was born in somalia , but my aunt helped me escape .\nthat was nice of her ! my aunt taught me how to swim\ni had to get away , i was forced to marry young , but now i am happy\ndid you take your spouse with you ?\nno , i had to escape him . it was not fun times .\ni am sorry . i am glad you are safe now\nthank you , do you do anything in your free time ?\ni love death metal music . i listen and write some too .\ndeath metal , is that the music you get whip lash from ?\nyeah ! i also coach competitive swimming .\n",
+        "response": "swimming is fun ! have you met any olympians ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.819108863623494
+    },
+    {
+        "context": "hi , i am taking a break from studying my computer programming\nwhat is computer programming , i am new to the united states .\ni'm from india so i understand . it is telling computers how to run programs\ncool , i was born in somalia , but my aunt helped me escape .\nthat was nice of her ! my aunt taught me how to swim\ni had to get away , i was forced to marry young , but now i am happy\ndid you take your spouse with you ?\nno , i had to escape him . it was not fun times .\ni am sorry . i am glad you are safe now\nthank you , do you do anything in your free time ?\ni love death metal music . i listen and write some too .\ndeath metal , is that the music you get whip lash from ?\nyeah ! i also coach competitive swimming .\n",
+        "response": "really ? i have quite the vast collection of purple swimming suits\n",
+        "model": "KV-MemNN",
+        "score": 0.757089136113759
+    },
+    {
+        "context": "hi , i am taking a break from studying my computer programming\nwhat is computer programming , i am new to the united states .\ni'm from india so i understand . it is telling computers how to run programs\ncool , i was born in somalia , but my aunt helped me escape .\nthat was nice of her ! my aunt taught me how to swim\ni had to get away , i was forced to marry young , but now i am happy\ndid you take your spouse with you ?\nno , i had to escape him . it was not fun times .\ni am sorry . i am glad you are safe now\nthank you , do you do anything in your free time ?\ni love death metal music . i listen and write some too .\ndeath metal , is that the music you get whip lash from ?\nyeah ! i also coach competitive swimming .\n",
+        "response": "i love swimming , but i do not have time for that\n",
+        "model": "Seq2Seq",
+        "score": 0.7927512820789265
+    },
+    {
+        "context": "hi , i am taking a break from studying my computer programming\nwhat is computer programming , i am new to the united states .\ni'm from india so i understand . it is telling computers how to run programs\ncool , i was born in somalia , but my aunt helped me escape .\nthat was nice of her ! my aunt taught me how to swim\ni had to get away , i was forced to marry young , but now i am happy\ndid you take your spouse with you ?\nno , i had to escape him . it was not fun times .\ni am sorry . i am glad you are safe now\nthank you , do you do anything in your free time ?\ni love death metal music . i listen and write some too .\ndeath metal , is that the music you get whip lash from ?\nyeah ! i also coach competitive swimming .\n",
+        "response": "i like to go to the gym and listen to music .\n",
+        "model": "Language Model",
+        "score": 0.6817739614946307
+    },
+    {
+        "context": "hi , i am taking a break from studying my computer programming\nwhat is computer programming , i am new to the united states .\ni'm from india so i understand . it is telling computers how to run programs\ncool , i was born in somalia , but my aunt helped me escape .\nthat was nice of her ! my aunt taught me how to swim\ni had to get away , i was forced to marry young , but now i am happy\ndid you take your spouse with you ?\nno , i had to escape him . it was not fun times .\ni am sorry . i am glad you are safe now\nthank you , do you do anything in your free time ?\ni love death metal music . i listen and write some too .\ndeath metal , is that the music you get whip lash from ?\nyeah ! i also coach competitive swimming .\n",
+        "response": "that sounds very fun ! i never learned to swim in somalia , maybe i'll try it now .\n",
+        "model": "New Human Generated",
+        "score": 0.8820676302076568
+    },
+    {
+        "context": "hello , how are you ? where abouts are you ?\ni'm in chicago . where are you ?\nin scotland . is chicago as cold and wet as it is here ?\nyes , but i am allergic to water . this is very unfortunate .\nit is . how do you keep clean ?\ni don't go outside much . i stay clean this way .\ni want to go outside . i managed to break my arm skateboarding so i m stuck indoors .\ni only stream to my 100 , 000 subscribers on twitch . i do not play real sports\n100k is very impressive . how long did it take to get that many ?\nsince i helped make starcraft , my name was already out there . 6 months .\nmade as in developed ? that s very cool .\n",
+        "response": "designed , yes . now i'm making a robot to be a body double of myself .\n",
+        "model": "Original Ground Truth",
+        "score": 0.7319574536069009
+    },
+    {
+        "context": "hello , how are you ? where abouts are you ?\ni'm in chicago . where are you ?\nin scotland . is chicago as cold and wet as it is here ?\nyes , but i am allergic to water . this is very unfortunate .\nit is . how do you keep clean ?\ni don't go outside much . i stay clean this way .\ni want to go outside . i managed to break my arm skateboarding so i m stuck indoors .\ni only stream to my 100 , 000 subscribers on twitch . i do not play real sports\n100k is very impressive . how long did it take to get that many ?\nsince i helped make starcraft , my name was already out there . 6 months .\nmade as in developed ? that s very cool .\n",
+        "response": "just give me a couple fish and some cheeseburgers to grill and i am happy\n",
+        "model": "KV-MemNN",
+        "score": 0.8524655161510121
+    },
+    {
+        "context": "hello , how are you ? where abouts are you ?\ni'm in chicago . where are you ?\nin scotland . is chicago as cold and wet as it is here ?\nyes , but i am allergic to water . this is very unfortunate .\nit is . how do you keep clean ?\ni don't go outside much . i stay clean this way .\ni want to go outside . i managed to break my arm skateboarding so i m stuck indoors .\ni only stream to my 100 , 000 subscribers on twitch . i do not play real sports\n100k is very impressive . how long did it take to get that many ?\nsince i helped make starcraft , my name was already out there . 6 months .\nmade as in developed ? that s very cool .\n",
+        "response": "i am a professional , i am a huge fan of the game .\n",
+        "model": "Seq2Seq",
+        "score": 0.7121840828314354
+    },
+    {
+        "context": "hello , how are you ? where abouts are you ?\ni'm in chicago . where are you ?\nin scotland . is chicago as cold and wet as it is here ?\nyes , but i am allergic to water . this is very unfortunate .\nit is . how do you keep clean ?\ni don't go outside much . i stay clean this way .\ni want to go outside . i managed to break my arm skateboarding so i m stuck indoors .\ni only stream to my 100 , 000 subscribers on twitch . i do not play real sports\n100k is very impressive . how long did it take to get that many ?\nsince i helped make starcraft , my name was already out there . 6 months .\nmade as in developed ? that s very cool .\n",
+        "response": "i do not know what to say .\n",
+        "model": "Language Model",
+        "score": 0.8252950981317461
+    },
+    {
+        "context": "hello , how are you ? where abouts are you ?\ni'm in chicago . where are you ?\nin scotland . is chicago as cold and wet as it is here ?\nyes , but i am allergic to water . this is very unfortunate .\nit is . how do you keep clean ?\ni don't go outside much . i stay clean this way .\ni want to go outside . i managed to break my arm skateboarding so i m stuck indoors .\ni only stream to my 100 , 000 subscribers on twitch . i do not play real sports\n100k is very impressive . how long did it take to get that many ?\nsince i helped make starcraft , my name was already out there . 6 months .\nmade as in developed ? that s very cool .\n",
+        "response": "thank you . now i'm building a robot to be my body double !\n",
+        "model": "New Human Generated",
+        "score": 0.8138512799700618
+    },
+    {
+        "context": "hello how are you today\n",
+        "response": "i'm doing very well thank you . how are you ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.8605488051691077
+    },
+    {
+        "context": "hello how are you today\n",
+        "response": "i am doing great , watching a little basketball . what are you up to ?\n",
+        "model": "KV-MemNN",
+        "score": 0.8540705543318593
+    },
+    {
+        "context": "hello how are you today\n",
+        "response": "i'm doing great , how are you ?\n",
+        "model": "Seq2Seq",
+        "score": 0.8967261705525923
+    },
+    {
+        "context": "hello how are you today\n",
+        "response": "i'm doing well . how are you ?\n",
+        "model": "Language Model",
+        "score": 0.9108698029940671
+    },
+    {
+        "context": "hello how are you today\n",
+        "response": "i'm good , just spending time with my amazing wife and kids . how are you ?\n",
+        "model": "New Human Generated",
+        "score": 0.8554329678627416
+    },
+    {
+        "context": "hello , how are you doing today ?\ni am okay . i wish my children would visit more , though .\ni am sorry to hear that . i turn to my spouse in times like that .\ni do , as well . though my husband liked me more when i was younger and prettier .\nthat's unfortunate . have you talked to anyone about this ?\n",
+        "response": "no , i keep to myself . my housekeeping job isn't exactly a social one .\n",
+        "model": "Original Ground Truth",
+        "score": 0.8816978018406179
+    },
+    {
+        "context": "hello , how are you doing today ?\ni am okay . i wish my children would visit more , though .\ni am sorry to hear that . i turn to my spouse in times like that .\ni do , as well . though my husband liked me more when i was younger and prettier .\nthat's unfortunate . have you talked to anyone about this ?\n",
+        "response": "nothing . i am never going an extra mile again for sure .\n",
+        "model": "KV-MemNN",
+        "score": 0.5273479023407055
+    },
+    {
+        "context": "hello , how are you doing today ?\ni am okay . i wish my children would visit more , though .\ni am sorry to hear that . i turn to my spouse in times like that .\ni do , as well . though my husband liked me more when i was younger and prettier .\nthat's unfortunate . have you talked to anyone about this ?\n",
+        "response": "i was a little too . i was a very good painter .\n",
+        "model": "Seq2Seq",
+        "score": 0.6396485672842761
+    },
+    {
+        "context": "hello , how are you doing today ?\ni am okay . i wish my children would visit more , though .\ni am sorry to hear that . i turn to my spouse in times like that .\ni do , as well . though my husband liked me more when i was younger and prettier .\nthat's unfortunate . have you talked to anyone about this ?\n",
+        "response": "no , i do not . i am a big fan of classical music .\n",
+        "model": "Language Model",
+        "score": 0.6101184497020562
+    },
+    {
+        "context": "hello , how are you doing today ?\ni am okay . i wish my children would visit more , though .\ni am sorry to hear that . i turn to my spouse in times like that .\ni do , as well . though my husband liked me more when i was younger and prettier .\nthat's unfortunate . have you talked to anyone about this ?\n",
+        "response": "i haven't . i'm 56 years old so i've learned to deal with these things by now .\n",
+        "model": "New Human Generated",
+        "score": 0.6922274572009613
+    },
+    {
+        "context": "hi my name is jill how are you today ?\n",
+        "response": "i am doing well . about to go to my job at burger king .\n",
+        "model": "Original Ground Truth",
+        "score": 0.7374143836014271
+    },
+    {
+        "context": "hi my name is jill how are you today ?\n",
+        "response": "what is your name ?\n",
+        "model": "KV-MemNN",
+        "score": 0.896615092389443
+    },
+    {
+        "context": "hi my name is jill how are you today ?\n",
+        "response": "i'm great . how are you ?\n",
+        "model": "Seq2Seq",
+        "score": 0.8426380579206251
+    },
+    {
+        "context": "hi my name is jill how are you today ?\n",
+        "response": "i'm doing well . how are you ?\n",
+        "model": "Language Model",
+        "score": 0.8651364283006509
+    },
+    {
+        "context": "hi my name is jill how are you today ?\n",
+        "response": "i'm great . just finished my part time job at burger king . how are you ?\n",
+        "model": "New Human Generated",
+        "score": 0.7507153892041253
+    },
+    {
+        "context": "hey , i enjoy mowing lawns in the summer\nhello . how are you ? my pet turtle and i are sitting here .\nmy turtle and myself love to grill outside\nmommy says to pick up toys . i do not like to . i want to play dolls !\nyeah , i have been retired for a long time ! years !\n",
+        "response": "i want to go next door and play with my best friend , not work !\n",
+        "model": "Original Ground Truth",
+        "score": 0.6529261704243742
+    },
+    {
+        "context": "hey , i enjoy mowing lawns in the summer\nhello . how are you ? my pet turtle and i are sitting here .\nmy turtle and myself love to grill outside\nmommy says to pick up toys . i do not like to . i want to play dolls !\nyeah , i have been retired for a long time ! years !\n",
+        "response": "cool . maybe you know my nephew ? he is in school and says i am the best aunt ever !\n",
+        "model": "KV-MemNN",
+        "score": 0.7048988463863574
+    },
+    {
+        "context": "hey , i enjoy mowing lawns in the summer\nhello . how are you ? my pet turtle and i are sitting here .\nmy turtle and myself love to grill outside\nmommy says to pick up toys . i do not like to . i want to play dolls !\nyeah , i have been retired for a long time ! years !\n",
+        "response": "i have been retired , but i do not know what to do .\n",
+        "model": "Seq2Seq",
+        "score": 0.607005885518242
+    },
+    {
+        "context": "hey , i enjoy mowing lawns in the summer\nhello . how are you ? my pet turtle and i are sitting here .\nmy turtle and myself love to grill outside\nmommy says to pick up toys . i do not like to . i want to play dolls !\nyeah , i have been retired for a long time ! years !\n",
+        "response": "i am sorry to hear that . i am sorry to hear that .\n",
+        "model": "Language Model",
+        "score": 0.6485798328744433
+    },
+    {
+        "context": "hey , i enjoy mowing lawns in the summer\nhello . how are you ? my pet turtle and i are sitting here .\nmy turtle and myself love to grill outside\nmommy says to pick up toys . i do not like to . i want to play dolls !\nyeah , i have been retired for a long time ! years !\n",
+        "response": "cool . do you live close to your friends ? my best friend is next door !\n",
+        "model": "New Human Generated",
+        "score": 0.615924731783355
+    },
+    {
+        "context": "hello . my softball game was canceled due to the hurricane .\noh how are you doing ? i'm sorry to hear that .\ndoing great . daddy was in the army , he taught me things .\ni once lived in my moms house .\nmine passed when i was eight .\n",
+        "response": "i'm so sorry mines too in my twenties .\n",
+        "model": "Original Ground Truth",
+        "score": 0.6817698128403623
+    },
+    {
+        "context": "hello . my softball game was canceled due to the hurricane .\noh how are you doing ? i'm sorry to hear that .\ndoing great . daddy was in the army , he taught me things .\ni once lived in my moms house .\nmine passed when i was eight .\n",
+        "response": "i am more of a drink at home and watch movies kind of person\n",
+        "model": "KV-MemNN",
+        "score": 0.5761186241501121
+    },
+    {
+        "context": "hello . my softball game was canceled due to the hurricane .\noh how are you doing ? i'm sorry to hear that .\ndoing great . daddy was in the army , he taught me things .\ni once lived in my moms house .\nmine passed when i was eight .\n",
+        "response": "oh wow . i am sorry to hear that .\n",
+        "model": "Seq2Seq",
+        "score": 0.7351257324806795
+    },
+    {
+        "context": "hello . my softball game was canceled due to the hurricane .\noh how are you doing ? i'm sorry to hear that .\ndoing great . daddy was in the army , he taught me things .\ni once lived in my moms house .\nmine passed when i was eight .\n",
+        "response": "i am sorry to hear that . i am sorry to hear that .\n",
+        "model": "Language Model",
+        "score": 0.7171418955502008
+    },
+    {
+        "context": "hello . my softball game was canceled due to the hurricane .\noh how are you doing ? i'm sorry to hear that .\ndoing great . daddy was in the army , he taught me things .\ni once lived in my moms house .\nmine passed when i was eight .\n",
+        "response": "sorry to hear that ! my boyfriend lost his mom at a young age too !\n",
+        "model": "New Human Generated",
+        "score": 0.6770456467242448
+    },
+    {
+        "context": "hello . can you move objects with your mind ?\nhi how are you doing ? i am okay no i wish i could .\ni'm great . i had heart surgery and woke up with weird superpowers .\ni'm so sorry to hear that i believe your powers are from the lord .\ni do not know . my heart was outside of my body now it is in .\ni tend to watch large amounts of t . v . on free times .\ni love the walking dead . are you a fan ?\nyes i am a fan and love zombie and vampire movies too\ni like captain america and star wars .\nwhat super powers did you awake with ?\nmoving objects with my mind .\nok that's cool and i like going to the gym most days .\ni like to swim and walk on the beach .\n",
+        "response": "i've a job inside my apartment i like working home .\n",
+        "model": "Original Ground Truth",
+        "score": 0.8492682371852971
+    },
+    {
+        "context": "hello . can you move objects with your mind ?\nhi how are you doing ? i am okay no i wish i could .\ni'm great . i had heart surgery and woke up with weird superpowers .\ni'm so sorry to hear that i believe your powers are from the lord .\ni do not know . my heart was outside of my body now it is in .\ni tend to watch large amounts of t . v . on free times .\ni love the walking dead . are you a fan ?\nyes i am a fan and love zombie and vampire movies too\ni like captain america and star wars .\nwhat super powers did you awake with ?\nmoving objects with my mind .\nok that's cool and i like going to the gym most days .\ni like to swim and walk on the beach .\n",
+        "response": "the beach is nice , but i do not get to go too often .\n",
+        "model": "KV-MemNN",
+        "score": 0.9092019388971412
+    },
+    {
+        "context": "hello . can you move objects with your mind ?\nhi how are you doing ? i am okay no i wish i could .\ni'm great . i had heart surgery and woke up with weird superpowers .\ni'm so sorry to hear that i believe your powers are from the lord .\ni do not know . my heart was outside of my body now it is in .\ni tend to watch large amounts of t . v . on free times .\ni love the walking dead . are you a fan ?\nyes i am a fan and love zombie and vampire movies too\ni like captain america and star wars .\nwhat super powers did you awake with ?\nmoving objects with my mind .\nok that's cool and i like going to the gym most days .\ni like to swim and walk on the beach .\n",
+        "response": "i love to swim and watch tv\n",
+        "model": "Seq2Seq",
+        "score": 0.8667942485518553
+    },
+    {
+        "context": "hello . can you move objects with your mind ?\nhi how are you doing ? i am okay no i wish i could .\ni'm great . i had heart surgery and woke up with weird superpowers .\ni'm so sorry to hear that i believe your powers are from the lord .\ni do not know . my heart was outside of my body now it is in .\ni tend to watch large amounts of t . v . on free times .\ni love the walking dead . are you a fan ?\nyes i am a fan and love zombie and vampire movies too\ni like captain america and star wars .\nwhat super powers did you awake with ?\nmoving objects with my mind .\nok that's cool and i like going to the gym most days .\ni like to swim and walk on the beach .\n",
+        "response": "i like to go fishing .\n",
+        "model": "Language Model",
+        "score": 0.8677288581666432
+    },
+    {
+        "context": "hello . can you move objects with your mind ?\nhi how are you doing ? i am okay no i wish i could .\ni'm great . i had heart surgery and woke up with weird superpowers .\ni'm so sorry to hear that i believe your powers are from the lord .\ni do not know . my heart was outside of my body now it is in .\ni tend to watch large amounts of t . v . on free times .\ni love the walking dead . are you a fan ?\nyes i am a fan and love zombie and vampire movies too\ni like captain america and star wars .\nwhat super powers did you awake with ?\nmoving objects with my mind .\nok that's cool and i like going to the gym most days .\ni like to swim and walk on the beach .\n",
+        "response": "swimming sounds fun . i honestly just go to the gym to socialize ! \n",
+        "model": "New Human Generated",
+        "score": 0.9228078359369817
+    },
+    {
+        "context": "good morning to you how are you today\ni'm well , glad to type to you . how are you ?\ni'm great i'm in school and i'm the queen of homecoming\n",
+        "response": "that's good . i'm a spiritual person , are you ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.7242734308081089
+    },
+    {
+        "context": "good morning to you how are you today\ni'm well , glad to type to you . how are you ?\ni'm great i'm in school and i'm the queen of homecoming\n",
+        "response": "one great seafood place nearby . i always get their crab and dip it in butter .\n",
+        "model": "KV-MemNN",
+        "score": 0.6374176938426434
+    },
+    {
+        "context": "good morning to you how are you today\ni'm well , glad to type to you . how are you ?\ni'm great i'm in school and i'm the queen of homecoming\n",
+        "response": "oh wow , that is amazing ! i am a huge fan of yoga\n",
+        "model": "Seq2Seq",
+        "score": 0.7381033228483104
+    },
+    {
+        "context": "good morning to you how are you today\ni'm well , glad to type to you . how are you ?\ni'm great i'm in school and i'm the queen of homecoming\n",
+        "response": "that is awesome . i am a teacher .\n",
+        "model": "Language Model",
+        "score": 0.7456158575016201
+    },
+    {
+        "context": "good morning to you how are you today\ni'm well , glad to type to you . how are you ?\ni'm great i'm in school and i'm the queen of homecoming\n",
+        "response": "i hope you enjoy that . i'm a buddhist and i spend all my time meditating . i haven't spoken in three months .\n",
+        "model": "New Human Generated",
+        "score": 0.635810727334662
+    },
+    {
+        "context": "hi . how is everything going ?\nhi . everything is going well on this end .\nwhere are you from ? i am originally from somalia .\ni am from detroit , mi . what do you like to do for fun ?\ni love dancing and singing .\nthat is interesting . i'd consider myself a gamer .\ni like gaming now that i am in the us .\n",
+        "response": "oh really ? what kind ? i love fps . my fav is cod .\n",
+        "model": "Original Ground Truth",
+        "score": 0.927495709502984
+    },
+    {
+        "context": "hi . how is everything going ?\nhi . everything is going well on this end .\nwhere are you from ? i am originally from somalia .\ni am from detroit , mi . what do you like to do for fun ?\ni love dancing and singing .\nthat is interesting . i'd consider myself a gamer .\ni like gaming now that i am in the us .\n",
+        "response": "no , but my boyfriend plays call of duty .\n",
+        "model": "KV-MemNN",
+        "score": 0.7826412427325591
+    },
+    {
+        "context": "hi . how is everything going ?\nhi . everything is going well on this end .\nwhere are you from ? i am originally from somalia .\ni am from detroit , mi . what do you like to do for fun ?\ni love dancing and singing .\nthat is interesting . i'd consider myself a gamer .\ni like gaming now that i am in the us .\n",
+        "response": "i like to play games . i like to play games .\n",
+        "model": "Seq2Seq",
+        "score": 0.8558131363784919
+    },
+    {
+        "context": "hi . how is everything going ?\nhi . everything is going well on this end .\nwhere are you from ? i am originally from somalia .\ni am from detroit , mi . what do you like to do for fun ?\ni love dancing and singing .\nthat is interesting . i'd consider myself a gamer .\ni like gaming now that i am in the us .\n",
+        "response": "i like to go fishing .\n",
+        "model": "Language Model",
+        "score": 0.852929980253752
+    },
+    {
+        "context": "hi . how is everything going ?\nhi . everything is going well on this end .\nwhere are you from ? i am originally from somalia .\ni am from detroit , mi . what do you like to do for fun ?\ni love dancing and singing .\nthat is interesting . i'd consider myself a gamer .\ni like gaming now that i am in the us .\n",
+        "response": "what games do you play ? i enjoy call of duty !\n",
+        "model": "New Human Generated",
+        "score": 0.9462992066850562
+    },
+    {
+        "context": "hello . how are you today ?\nhi ! my name is sophie . i'm doing well . how are you ?\nvery well thank you . do you have any hobbies ?\ni love watching the movie frozen and singing along !\ni try different coffees , read poetry and watch star wars . i have not seen frozen .\ni just started the third grade and love to write poetry ! i write about mickey mouse .\nthat sounds like fun ! i love mickey mouse ! he's pretty cool .\nmy family and i go to disney world every year ! have you ever been ?\ni have been once and stayed the week . it was awesome . i want to go again .\ni can not wait to go again !\ni know i can not either . do you like football ?\n",
+        "response": "yes ! my favorite team is the steelers . what is yours ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.8527879170589757
+    },
+    {
+        "context": "hello . how are you today ?\nhi ! my name is sophie . i'm doing well . how are you ?\nvery well thank you . do you have any hobbies ?\ni love watching the movie frozen and singing along !\ni try different coffees , read poetry and watch star wars . i have not seen frozen .\ni just started the third grade and love to write poetry ! i write about mickey mouse .\nthat sounds like fun ! i love mickey mouse ! he's pretty cool .\nmy family and i go to disney world every year ! have you ever been ?\ni have been once and stayed the week . it was awesome . i want to go again .\ni can not wait to go again !\ni know i can not either . do you like football ?\n",
+        "response": "i love other football called soccer .\n",
+        "model": "KV-MemNN",
+        "score": 0.7296778261781582
+    },
+    {
+        "context": "hello . how are you today ?\nhi ! my name is sophie . i'm doing well . how are you ?\nvery well thank you . do you have any hobbies ?\ni love watching the movie frozen and singing along !\ni try different coffees , read poetry and watch star wars . i have not seen frozen .\ni just started the third grade and love to write poetry ! i write about mickey mouse .\nthat sounds like fun ! i love mickey mouse ! he's pretty cool .\nmy family and i go to disney world every year ! have you ever been ?\ni have been once and stayed the week . it was awesome . i want to go again .\ni can not wait to go again !\ni know i can not either . do you like football ?\n",
+        "response": "i do . i love to watch football .\n",
+        "model": "Seq2Seq",
+        "score": 0.7478679565842842
+    },
+    {
+        "context": "hello . how are you today ?\nhi ! my name is sophie . i'm doing well . how are you ?\nvery well thank you . do you have any hobbies ?\ni love watching the movie frozen and singing along !\ni try different coffees , read poetry and watch star wars . i have not seen frozen .\ni just started the third grade and love to write poetry ! i write about mickey mouse .\nthat sounds like fun ! i love mickey mouse ! he's pretty cool .\nmy family and i go to disney world every year ! have you ever been ?\ni have been once and stayed the week . it was awesome . i want to go again .\ni can not wait to go again !\ni know i can not either . do you like football ?\n",
+        "response": "i do , i love to play soccer .\n",
+        "model": "Language Model",
+        "score": 0.6857398616743957
+    },
+    {
+        "context": "hello . how are you today ?\nhi ! my name is sophie . i'm doing well . how are you ?\nvery well thank you . do you have any hobbies ?\ni love watching the movie frozen and singing along !\ni try different coffees , read poetry and watch star wars . i have not seen frozen .\ni just started the third grade and love to write poetry ! i write about mickey mouse .\nthat sounds like fun ! i love mickey mouse ! he's pretty cool .\nmy family and i go to disney world every year ! have you ever been ?\ni have been once and stayed the week . it was awesome . i want to go again .\ni can not wait to go again !\ni know i can not either . do you like football ?\n",
+        "response": "not really . i'd much rather sing songs from frozen !\n",
+        "model": "New Human Generated",
+        "score": 0.640763623665219
+    },
+    {
+        "context": "hello , how are you doing tonight ?\ndoing great . watched nhl hockey and walked my german shepherd dog .\nwhat do you do for work ?\ni live on a farm and work here too . what do you do ?\ni'm a local musician , but i've been studying different languages recently .\nwow , great . my artistic ability is limited to coloring books . lol\nmy favorite word in spanish is trabajo . i plan to study french next .\nneat . my husband was adopted and he's spanish .\ndoes he speak spanish fluently ?\nyes , but i do not . i am limited to spanish food names like taco . lol\nare tacos your favorite food ?\nyes , i eat them while i watch hockey . do you like hockey ?\ni like baseball better . go yankees !\nwhat instrument do you play ?\ni play the piano and the violin .\n",
+        "response": "you are so talented . i can sing farm songs and i can milk cows .\n",
+        "model": "Original Ground Truth",
+        "score": 0.8399794665256005
+    },
+    {
+        "context": "hello , how are you doing tonight ?\ndoing great . watched nhl hockey and walked my german shepherd dog .\nwhat do you do for work ?\ni live on a farm and work here too . what do you do ?\ni'm a local musician , but i've been studying different languages recently .\nwow , great . my artistic ability is limited to coloring books . lol\nmy favorite word in spanish is trabajo . i plan to study french next .\nneat . my husband was adopted and he's spanish .\ndoes he speak spanish fluently ?\nyes , but i do not . i am limited to spanish food names like taco . lol\nare tacos your favorite food ?\nyes , i eat them while i watch hockey . do you like hockey ?\ni like baseball better . go yankees !\nwhat instrument do you play ?\ni play the piano and the violin .\n",
+        "response": "i saw the easter bunny behind my closet door\n",
+        "model": "KV-MemNN",
+        "score": 0.7888884455913746
+    },
+    {
+        "context": "hello , how are you doing tonight ?\ndoing great . watched nhl hockey and walked my german shepherd dog .\nwhat do you do for work ?\ni live on a farm and work here too . what do you do ?\ni'm a local musician , but i've been studying different languages recently .\nwow , great . my artistic ability is limited to coloring books . lol\nmy favorite word in spanish is trabajo . i plan to study french next .\nneat . my husband was adopted and he's spanish .\ndoes he speak spanish fluently ?\nyes , but i do not . i am limited to spanish food names like taco . lol\nare tacos your favorite food ?\nyes , i eat them while i watch hockey . do you like hockey ?\ni like baseball better . go yankees !\nwhat instrument do you play ?\ni play the piano and the violin .\n",
+        "response": "i play the piano . i love it .\n",
+        "model": "Seq2Seq",
+        "score": 0.8948444075819183
+    },
+    {
+        "context": "hello , how are you doing tonight ?\ndoing great . watched nhl hockey and walked my german shepherd dog .\nwhat do you do for work ?\ni live on a farm and work here too . what do you do ?\ni'm a local musician , but i've been studying different languages recently .\nwow , great . my artistic ability is limited to coloring books . lol\nmy favorite word in spanish is trabajo . i plan to study french next .\nneat . my husband was adopted and he's spanish .\ndoes he speak spanish fluently ?\nyes , but i do not . i am limited to spanish food names like taco . lol\nare tacos your favorite food ?\nyes , i eat them while i watch hockey . do you like hockey ?\ni like baseball better . go yankees !\nwhat instrument do you play ?\ni play the piano and the violin .\n",
+        "response": "i like to play soccer , but i like to play soccer .\n",
+        "model": "Language Model",
+        "score": 0.6307346762058605
+    },
+    {
+        "context": "hello , how are you doing tonight ?\ndoing great . watched nhl hockey and walked my german shepherd dog .\nwhat do you do for work ?\ni live on a farm and work here too . what do you do ?\ni'm a local musician , but i've been studying different languages recently .\nwow , great . my artistic ability is limited to coloring books . lol\nmy favorite word in spanish is trabajo . i plan to study french next .\nneat . my husband was adopted and he's spanish .\ndoes he speak spanish fluently ?\nyes , but i do not . i am limited to spanish food names like taco . lol\nare tacos your favorite food ?\nyes , i eat them while i watch hockey . do you like hockey ?\ni like baseball better . go yankees !\nwhat instrument do you play ?\ni play the piano and the violin .\n",
+        "response": "that sounds amazing ! how long have you been playing ?\n",
+        "model": "New Human Generated",
+        "score": 0.9187333726505738
+    },
+    {
+        "context": "good evening . how are you ?\n",
+        "response": "i'm 13 with an older brother .\n",
+        "model": "Original Ground Truth",
+        "score": 0.6432836651217978
+    },
+    {
+        "context": "good evening . how are you ?\n",
+        "response": "i am well . how are you ?\n",
+        "model": "KV-MemNN",
+        "score": 0.8017448891086234
+    },
+    {
+        "context": "good evening . how are you ?\n",
+        "response": "i am doing well . how are you ?\n",
+        "model": "Seq2Seq",
+        "score": 0.7645111854202045
+    },
+    {
+        "context": "good evening . how are you ?\n",
+        "response": "i'm doing well . how are you ?\n",
+        "model": "Language Model",
+        "score": 0.7811885089356075
+    },
+    {
+        "context": "good evening . how are you ?\n",
+        "response": "i'm annoyed at how much math homework i have . i hate math class !\n",
+        "model": "New Human Generated",
+        "score": 0.676489669515113
+    },
+    {
+        "context": "hi how are you doing\ni am doing very fine this afternoon . how about you ?\ni'm good getting ready for school\nwhat are you going to school for ?\nhigh school i'm so ready to graduate\nwill you be driving to or living on campus ?\ni will probably be living on campus\nwhat kind of music makes you feel good ?\nreally any kind what about you\ni enjoy listening to classical music .\nthat is nice do you like sports\nit depends on the particular sport .\ni like to spend time with my horses\n",
+        "response": "i am more concerned with my religion .\n",
+        "model": "Original Ground Truth",
+        "score": 0.8130636577197888
+    },
+    {
+        "context": "hi how are you doing\ni am doing very fine this afternoon . how about you ?\ni'm good getting ready for school\nwhat are you going to school for ?\nhigh school i'm so ready to graduate\nwill you be driving to or living on campus ?\ni will probably be living on campus\nwhat kind of music makes you feel good ?\nreally any kind what about you\ni enjoy listening to classical music .\nthat is nice do you like sports\nit depends on the particular sport .\ni like to spend time with my horses\n",
+        "response": "i love to ride horses .\n",
+        "model": "KV-MemNN",
+        "score": 0.8023363386149103
+    },
+    {
+        "context": "hi how are you doing\ni am doing very fine this afternoon . how about you ?\ni'm good getting ready for school\nwhat are you going to school for ?\nhigh school i'm so ready to graduate\nwill you be driving to or living on campus ?\ni will probably be living on campus\nwhat kind of music makes you feel good ?\nreally any kind what about you\ni enjoy listening to classical music .\nthat is nice do you like sports\nit depends on the particular sport .\ni like to spend time with my horses\n",
+        "response": "i love horses too . i have a lot of time to do that .\n",
+        "model": "Seq2Seq",
+        "score": 0.9208713650494377
+    },
+    {
+        "context": "hi how are you doing\ni am doing very fine this afternoon . how about you ?\ni'm good getting ready for school\nwhat are you going to school for ?\nhigh school i'm so ready to graduate\nwill you be driving to or living on campus ?\ni will probably be living on campus\nwhat kind of music makes you feel good ?\nreally any kind what about you\ni enjoy listening to classical music .\nthat is nice do you like sports\nit depends on the particular sport .\ni like to spend time with my horses\n",
+        "response": "i love dogs , my dog is named pickles .\n",
+        "model": "Language Model",
+        "score": 0.9033059587917067
+    },
+    {
+        "context": "hi how are you doing\ni am doing very fine this afternoon . how about you ?\ni'm good getting ready for school\nwhat are you going to school for ?\nhigh school i'm so ready to graduate\nwill you be driving to or living on campus ?\ni will probably be living on campus\nwhat kind of music makes you feel good ?\nreally any kind what about you\ni enjoy listening to classical music .\nthat is nice do you like sports\nit depends on the particular sport .\ni like to spend time with my horses\n",
+        "response": "horses are great ! i work with a lot of animals on my farm . i can drive a tractor too .\n",
+        "model": "New Human Generated",
+        "score": 0.9380061051203891
+    },
+    {
+        "context": "hello , how are you doing today ?\n",
+        "response": "am fine and how is your life\n",
+        "model": "Original Ground Truth",
+        "score": 0.8125846947483101
+    },
+    {
+        "context": "hello , how are you doing today ?\n",
+        "response": "i am well , how are you ?\n",
+        "model": "KV-MemNN",
+        "score": 0.8745256024678553
+    },
+    {
+        "context": "hello , how are you doing today ?\n",
+        "response": "i am good . just got back from my pet fish . you ?\n",
+        "model": "Seq2Seq",
+        "score": 0.8353458561462621
+    },
+    {
+        "context": "hello , how are you doing today ?\n",
+        "response": "i'm doing well . how are you ?\n",
+        "model": "Language Model",
+        "score": 0.8829517477158391
+    },
+    {
+        "context": "hello , how are you doing today ?\n",
+        "response": "pretty good . i just turned 18 yesterday .\n",
+        "model": "New Human Generated",
+        "score": 0.83864260459847
+    },
+    {
+        "context": "hi i am a farmer from iowa . just go in from a long day on the tractor .\n",
+        "response": "ah , we are a farming family too . you have any pets ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.745827096254524
+    },
+    {
+        "context": "hi i am a farmer from iowa . just go in from a long day on the tractor .\n",
+        "response": "wow you have a farm ?\n",
+        "model": "KV-MemNN",
+        "score": 0.8383623693794046
+    },
+    {
+        "context": "hi i am a farmer from iowa . just go in from a long day on the tractor .\n",
+        "response": "i live in a rural area so i live in a rural area .\n",
+        "model": "Seq2Seq",
+        "score": 0.7523425251039066
+    },
+    {
+        "context": "hi i am a farmer from iowa . just go in from a long day on the tractor .\n",
+        "response": "that is awesome . i love to go fishing .\n",
+        "model": "Language Model",
+        "score": 0.7565309864387917
+    },
+    {
+        "context": "hi i am a farmer from iowa . just go in from a long day on the tractor .\n",
+        "response": "cool ! i also live in a rural farming community .\n",
+        "model": "New Human Generated",
+        "score": 0.7820653978416342
+    },
+    {
+        "context": "my sister and i love classical music and we pole dance . call me dirty red .\nhello dirty red , i am a high school student . i just won homecoming queen !\ngreat ! i love anything red especially tractors . wink wink !\ni enjoy running do you ? i hope to run a 5k this year .\ni had to run for my life one time . you ever danced to bach ?\ni listen to classical music , when i do my homework . i am currently a straight a student !\nwow ! i get paid to pole dance . do you get paid to run ?\nno i do track and field in school and i want to start racing for charity .\ni see . you own a tractor ? i like driving tractors . wink wink .\n",
+        "response": "nope no tractor , i want save my money for college .\n",
+        "model": "Original Ground Truth",
+        "score": 0.7699624652152003
+    },
+    {
+        "context": "my sister and i love classical music and we pole dance . call me dirty red .\nhello dirty red , i am a high school student . i just won homecoming queen !\ngreat ! i love anything red especially tractors . wink wink !\ni enjoy running do you ? i hope to run a 5k this year .\ni had to run for my life one time . you ever danced to bach ?\ni listen to classical music , when i do my homework . i am currently a straight a student !\nwow ! i get paid to pole dance . do you get paid to run ?\nno i do track and field in school and i want to start racing for charity .\ni see . you own a tractor ? i like driving tractors . wink wink .\n",
+        "response": "lots of stuff . i went to a christian high school so i am pretty tame though .\n",
+        "model": "KV-MemNN",
+        "score": 0.8294623334870794
+    },
+    {
+        "context": "my sister and i love classical music and we pole dance . call me dirty red .\nhello dirty red , i am a high school student . i just won homecoming queen !\ngreat ! i love anything red especially tractors . wink wink !\ni enjoy running do you ? i hope to run a 5k this year .\ni had to run for my life one time . you ever danced to bach ?\ni listen to classical music , when i do my homework . i am currently a straight a student !\nwow ! i get paid to pole dance . do you get paid to run ?\nno i do track and field in school and i want to start racing for charity .\ni see . you own a tractor ? i like driving tractors . wink wink .\n",
+        "response": "i am a college student . i am in high school .\n",
+        "model": "Seq2Seq",
+        "score": 0.7193208558363089
+    },
+    {
+        "context": "my sister and i love classical music and we pole dance . call me dirty red .\nhello dirty red , i am a high school student . i just won homecoming queen !\ngreat ! i love anything red especially tractors . wink wink !\ni enjoy running do you ? i hope to run a 5k this year .\ni had to run for my life one time . you ever danced to bach ?\ni listen to classical music , when i do my homework . i am currently a straight a student !\nwow ! i get paid to pole dance . do you get paid to run ?\nno i do track and field in school and i want to start racing for charity .\ni see . you own a tractor ? i like driving tractors . wink wink .\n",
+        "response": "i do not have any pets , but i do like to eat .\n",
+        "model": "Language Model",
+        "score": 0.7838245582797143
+    },
+    {
+        "context": "my sister and i love classical music and we pole dance . call me dirty red .\nhello dirty red , i am a high school student . i just won homecoming queen !\ngreat ! i love anything red especially tractors . wink wink !\ni enjoy running do you ? i hope to run a 5k this year .\ni had to run for my life one time . you ever danced to bach ?\ni listen to classical music , when i do my homework . i am currently a straight a student !\nwow ! i get paid to pole dance . do you get paid to run ?\nno i do track and field in school and i want to start racing for charity .\ni see . you own a tractor ? i like driving tractors . wink wink .\n",
+        "response": "no , i don't own a tractor . when i grow up i want to be a physical therapist . did you always want to be a pole dancer ?\n",
+        "model": "New Human Generated",
+        "score": 0.8140769085378271
+    },
+    {
+        "context": "hey ! i'm george , what is your name ?\ni'm todd hicks . it is good to meet you .\nnice to meet you ! what do you do ?\ni work on a freelance basis as an author , blogger and affiliate marketer . and you ?\noh interesting ! i work with bees . . as a farmer !\ndo you grow crops too ?\nnop . . i should since i love papaya ! are you married ?\nno , i am single . are you single or are you married ?\ni'm married ! . . my lady is a top model from italy ! i aimed high hehe\nhave you ever been to italy ?\nnot yet , it i love to travel . . have you ?\nno . i'd like to go there someday though .\nyep , i was visiting my sis in spain last month , it is nice\n",
+        "response": "it is nice that you had a good time .\n",
+        "model": "Original Ground Truth",
+        "score": 0.8550298584950987
+    },
+    {
+        "context": "hey ! i'm george , what is your name ?\ni'm todd hicks . it is good to meet you .\nnice to meet you ! what do you do ?\ni work on a freelance basis as an author , blogger and affiliate marketer . and you ?\noh interesting ! i work with bees . . as a farmer !\ndo you grow crops too ?\nnop . . i should since i love papaya ! are you married ?\nno , i am single . are you single or are you married ?\ni'm married ! . . my lady is a top model from italy ! i aimed high hehe\nhave you ever been to italy ?\nnot yet , it i love to travel . . have you ?\nno . i'd like to go there someday though .\nyep , i was visiting my sis in spain last month , it is nice\n",
+        "response": "my older brother lives in spain , how is it ?\n",
+        "model": "KV-MemNN",
+        "score": 0.7934318862096189
+    },
+    {
+        "context": "hey ! i'm george , what is your name ?\ni'm todd hicks . it is good to meet you .\nnice to meet you ! what do you do ?\ni work on a freelance basis as an author , blogger and affiliate marketer . and you ?\noh interesting ! i work with bees . . as a farmer !\ndo you grow crops too ?\nnop . . i should since i love papaya ! are you married ?\nno , i am single . are you single or are you married ?\ni'm married ! . . my lady is a top model from italy ! i aimed high hehe\nhave you ever been to italy ?\nnot yet , it i love to travel . . have you ?\nno . i'd like to go there someday though .\nyep , i was visiting my sis in spain last month , it is nice\n",
+        "response": "i bet you have a great day !\n",
+        "model": "Seq2Seq",
+        "score": 0.8638255439330883
+    },
+    {
+        "context": "hey ! i'm george , what is your name ?\ni'm todd hicks . it is good to meet you .\nnice to meet you ! what do you do ?\ni work on a freelance basis as an author , blogger and affiliate marketer . and you ?\noh interesting ! i work with bees . . as a farmer !\ndo you grow crops too ?\nnop . . i should since i love papaya ! are you married ?\nno , i am single . are you single or are you married ?\ni'm married ! . . my lady is a top model from italy ! i aimed high hehe\nhave you ever been to italy ?\nnot yet , it i love to travel . . have you ?\nno . i'd like to go there someday though .\nyep , i was visiting my sis in spain last month , it is nice\n",
+        "response": "i love to travel . i love it .\n",
+        "model": "Language Model",
+        "score": 0.8519109372234879
+    },
+    {
+        "context": "hey ! i'm george , what is your name ?\ni'm todd hicks . it is good to meet you .\nnice to meet you ! what do you do ?\ni work on a freelance basis as an author , blogger and affiliate marketer . and you ?\noh interesting ! i work with bees . . as a farmer !\ndo you grow crops too ?\nnop . . i should since i love papaya ! are you married ?\nno , i am single . are you single or are you married ?\ni'm married ! . . my lady is a top model from italy ! i aimed high hehe\nhave you ever been to italy ?\nnot yet , it i love to travel . . have you ?\nno . i'd like to go there someday though .\nyep , i was visiting my sis in spain last month , it is nice\n",
+        "response": "sounds fun ! i just finished moving into my first home .\n",
+        "model": "New Human Generated",
+        "score": 0.7245496673895524
+    },
+    {
+        "context": "hi , how are you doing ?\nhi , i am doing well , how are you ?\ncan't complain . i had a wonderful afternoon in the park .\noh , that is nice . i like being in parks especially in nice weather\nyes . the weather is perfect here now . what do you like to do ?\ni like to watch nascar racing and sometimes ufc\nthat sounds fun ! i've time to do that since i'm out of work right now .\n",
+        "response": "how long have you been working at your current place ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.7931273816911086
+    },
+    {
+        "context": "hi , how are you doing ?\nhi , i am doing well , how are you ?\ncan't complain . i had a wonderful afternoon in the park .\noh , that is nice . i like being in parks especially in nice weather\nyes . the weather is perfect here now . what do you like to do ?\ni like to watch nascar racing and sometimes ufc\nthat sounds fun ! i've time to do that since i'm out of work right now .\n",
+        "response": "i work at a small advertising agency . i promote my sister , a published author .\n",
+        "model": "KV-MemNN",
+        "score": 0.7043611682819128
+    },
+    {
+        "context": "hi , how are you doing ?\nhi , i am doing well , how are you ?\ncan't complain . i had a wonderful afternoon in the park .\noh , that is nice . i like being in parks especially in nice weather\nyes . the weather is perfect here now . what do you like to do ?\ni like to watch nascar racing and sometimes ufc\nthat sounds fun ! i've time to do that since i'm out of work right now .\n",
+        "response": "i work in a gym , i love to eat mexican food\n",
+        "model": "Seq2Seq",
+        "score": 0.7342427519141671
+    },
+    {
+        "context": "hi , how are you doing ?\nhi , i am doing well , how are you ?\ncan't complain . i had a wonderful afternoon in the park .\noh , that is nice . i like being in parks especially in nice weather\nyes . the weather is perfect here now . what do you like to do ?\ni like to watch nascar racing and sometimes ufc\nthat sounds fun ! i've time to do that since i'm out of work right now .\n",
+        "response": "i am a student , but i work at a grocery store .\n",
+        "model": "Language Model",
+        "score": 0.8050878828965312
+    },
+    {
+        "context": "hi , how are you doing ?\nhi , i am doing well , how are you ?\ncan't complain . i had a wonderful afternoon in the park .\noh , that is nice . i like being in parks especially in nice weather\nyes . the weather is perfect here now . what do you like to do ?\ni like to watch nascar racing and sometimes ufc\nthat sounds fun ! i've time to do that since i'm out of work right now .\n",
+        "response": "sorry to hear that . i could use a break from work , i've been working since i was sixteen years old .\n",
+        "model": "New Human Generated",
+        "score": 0.8639169456303488
+    },
+    {
+        "context": "hello , tell me about yourself while i take a break from my programming studies .\nno kidding ! i am in it ! same gig for 15 years !\nnice ! right now i coach swimming while i finish up school . do you like music ?\ni enjoy country like any real man .\ni not invite you to see blood spot with me then . where are you from ?\n",
+        "response": "florida . i own a home there . 2 kids , a dog a lady .\n",
+        "model": "Original Ground Truth",
+        "score": 0.8117359387218713
+    },
+    {
+        "context": "hello , tell me about yourself while i take a break from my programming studies .\nno kidding ! i am in it ! same gig for 15 years !\nnice ! right now i coach swimming while i finish up school . do you like music ?\ni enjoy country like any real man .\ni not invite you to see blood spot with me then . where are you from ?\n",
+        "response": "florida . what about you ?\n",
+        "model": "KV-MemNN",
+        "score": 0.8006822652772448
+    },
+    {
+        "context": "hello , tell me about yourself while i take a break from my programming studies .\nno kidding ! i am in it ! same gig for 15 years !\nnice ! right now i coach swimming while i finish up school . do you like music ?\ni enjoy country like any real man .\ni not invite you to see blood spot with me then . where are you from ?\n",
+        "response": "i am from the midwest , how about you ?\n",
+        "model": "Seq2Seq",
+        "score": 0.8707764865070888
+    },
+    {
+        "context": "hello , tell me about yourself while i take a break from my programming studies .\nno kidding ! i am in it ! same gig for 15 years !\nnice ! right now i coach swimming while i finish up school . do you like music ?\ni enjoy country like any real man .\ni not invite you to see blood spot with me then . where are you from ?\n",
+        "response": "i'm from ohio . i love to go out to the beach .\n",
+        "model": "Language Model",
+        "score": 0.7075132441083791
+    },
+    {
+        "context": "hello , tell me about yourself while i take a break from my programming studies .\nno kidding ! i am in it ! same gig for 15 years !\nnice ! right now i coach swimming while i finish up school . do you like music ?\ni enjoy country like any real man .\ni not invite you to see blood spot with me then . where are you from ?\n",
+        "response": "i live in florida ! how about you ?\n",
+        "model": "New Human Generated",
+        "score": 0.8869208373574241
+    },
+    {
+        "context": "good morning ! how are you ?\npretty good and yourself ? i like to try different coffees as a hobby\ngreat here ! just finished a cup of coffee .\nwow that's good . i also played football in college\npretty cool ! i played volleyball in high school .\n",
+        "response": "that is awesome . i like to read poetry . do you like poetry ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.8851571100847941
+    },
+    {
+        "context": "good morning ! how are you ?\npretty good and yourself ? i like to try different coffees as a hobby\ngreat here ! just finished a cup of coffee .\nwow that's good . i also played football in college\npretty cool ! i played volleyball in high school .\n",
+        "response": "i play college football , linebacker\n",
+        "model": "KV-MemNN",
+        "score": 0.8018482504970222
+    },
+    {
+        "context": "good morning ! how are you ?\npretty good and yourself ? i like to try different coffees as a hobby\ngreat here ! just finished a cup of coffee .\nwow that's good . i also played football in college\npretty cool ! i played volleyball in high school .\n",
+        "response": "i played in college for a college football team\n",
+        "model": "Seq2Seq",
+        "score": 0.8052078890353845
+    },
+    {
+        "context": "good morning ! how are you ?\npretty good and yourself ? i like to try different coffees as a hobby\ngreat here ! just finished a cup of coffee .\nwow that's good . i also played football in college\npretty cool ! i played volleyball in high school .\n",
+        "response": "i love to cook , and i love to cook .\n",
+        "model": "Language Model",
+        "score": 0.804707942591704
+    },
+    {
+        "context": "good morning ! how are you ?\npretty good and yourself ? i like to try different coffees as a hobby\ngreat here ! just finished a cup of coffee .\nwow that's good . i also played football in college\npretty cool ! i played volleyball in high school .\n",
+        "response": "i enjoy volleyball too ! probably not as much as i enjoy poetry though .\n",
+        "model": "New Human Generated",
+        "score": 0.8924795484926014
+    },
+    {
+        "context": "hello how are you today ?\nso tired . just laying on the couch reading my weekly book . you ?\ni'm getting ready to go to a weekend concert to hear country music .\nthat sounds fun . i wonder if i could do that while pregnant ?\nyes you can go to a concert . just be careful . do you like country music .\ni like some of it . it is popular here in pennsylvania .\ncool ! my dogs also like country music . we dance when it is played .\ndo you like movies ? i live documentaries .\ni watch the history channel quite a bit actually .\ndo you work at all ? i have been working a pa job a few months .\ni work and have all of my fun on the weekends !\n",
+        "response": "that sounds great ! my weekly goal of reading a new book keeps me busy .\n",
+        "model": "Original Ground Truth",
+        "score": 0.8708592984477868
+    },
+    {
+        "context": "hello how are you today ?\nso tired . just laying on the couch reading my weekly book . you ?\ni'm getting ready to go to a weekend concert to hear country music .\nthat sounds fun . i wonder if i could do that while pregnant ?\nyes you can go to a concert . just be careful . do you like country music .\ni like some of it . it is popular here in pennsylvania .\ncool ! my dogs also like country music . we dance when it is played .\ndo you like movies ? i live documentaries .\ni watch the history channel quite a bit actually .\ndo you work at all ? i have been working a pa job a few months .\ni work and have all of my fun on the weekends !\n",
+        "response": "ok , maybe we can form a book club\n",
+        "model": "KV-MemNN",
+        "score": 0.8805277601792458
+    },
+    {
+        "context": "hello how are you today ?\nso tired . just laying on the couch reading my weekly book . you ?\ni'm getting ready to go to a weekend concert to hear country music .\nthat sounds fun . i wonder if i could do that while pregnant ?\nyes you can go to a concert . just be careful . do you like country music .\ni like some of it . it is popular here in pennsylvania .\ncool ! my dogs also like country music . we dance when it is played .\ndo you like movies ? i live documentaries .\ni watch the history channel quite a bit actually .\ndo you work at all ? i have been working a pa job a few months .\ni work and have all of my fun on the weekends !\n",
+        "response": "that sounds like a lot of fun . i am pregnant .\n",
+        "model": "Seq2Seq",
+        "score": 0.9128416524326503
+    },
+    {
+        "context": "hello how are you today ?\nso tired . just laying on the couch reading my weekly book . you ?\ni'm getting ready to go to a weekend concert to hear country music .\nthat sounds fun . i wonder if i could do that while pregnant ?\nyes you can go to a concert . just be careful . do you like country music .\ni like some of it . it is popular here in pennsylvania .\ncool ! my dogs also like country music . we dance when it is played .\ndo you like movies ? i live documentaries .\ni watch the history channel quite a bit actually .\ndo you work at all ? i have been working a pa job a few months .\ni work and have all of my fun on the weekends !\n",
+        "response": "i like to go fishing .\n",
+        "model": "Language Model",
+        "score": 0.7031616523979585
+    },
+    {
+        "context": "hello how are you today ?\nso tired . just laying on the couch reading my weekly book . you ?\ni'm getting ready to go to a weekend concert to hear country music .\nthat sounds fun . i wonder if i could do that while pregnant ?\nyes you can go to a concert . just be careful . do you like country music .\ni like some of it . it is popular here in pennsylvania .\ncool ! my dogs also like country music . we dance when it is played .\ndo you like movies ? i live documentaries .\ni watch the history channel quite a bit actually .\ndo you work at all ? i have been working a pa job a few months .\ni work and have all of my fun on the weekends !\n",
+        "response": "what do you do for fun ? i spend time with my husband and read .\n",
+        "model": "New Human Generated",
+        "score": 0.8556812814776675
+    },
+    {
+        "context": "there'sn'thing i like more than a late night ice cream run\nhey share the cream ! haha\ndo you have a flavor preference ? mine is vanilla\nvanilla is my fav as well\nmy two cats love to lick the bowl when i am done haha\n",
+        "response": "haha that's cute haha , what you do for living\n",
+        "model": "Original Ground Truth",
+        "score": 0.8628971662293003
+    },
+    {
+        "context": "there'sn'thing i like more than a late night ice cream run\nhey share the cream ! haha\ndo you have a flavor preference ? mine is vanilla\nvanilla is my fav as well\nmy two cats love to lick the bowl when i am done haha\n",
+        "response": "his name is tony . do you have pets ?\n",
+        "model": "KV-MemNN",
+        "score": 0.9571481278886669
+    },
+    {
+        "context": "there'sn'thing i like more than a late night ice cream run\nhey share the cream ! haha\ndo you have a flavor preference ? mine is vanilla\nvanilla is my fav as well\nmy two cats love to lick the bowl when i am done haha\n",
+        "response": "i love to run , i am in high school\n",
+        "model": "Seq2Seq",
+        "score": 0.9363984701452888
+    },
+    {
+        "context": "there'sn'thing i like more than a late night ice cream run\nhey share the cream ! haha\ndo you have a flavor preference ? mine is vanilla\nvanilla is my fav as well\nmy two cats love to lick the bowl when i am done haha\n",
+        "response": "i like to go to the gym and listen to music .\n",
+        "model": "Language Model",
+        "score": 0.9097377678261439
+    },
+    {
+        "context": "there'sn'thing i like more than a late night ice cream run\nhey share the cream ! haha\ndo you have a flavor preference ? mine is vanilla\nvanilla is my fav as well\nmy two cats love to lick the bowl when i am done haha\n",
+        "response": "i love cats ! what do you do ? i'm currently in high school and i make straight as !\n",
+        "model": "New Human Generated",
+        "score": 0.8947181543975147
+    },
+    {
+        "context": "hello , my name is larry . what is your name ?\nmy name is jerry . i farm bees for a living . you ?\nwell , i'm a chef . i absolutely love cooking . do you have nay hobbies ?\nyes , i like to cook too . but i'm not a pro like you\neven though i love cooking , i also like fishing . do you like to fish ?\nyes , i fly fish . i love it . i wish i could invite my family\nwhy can you not invite your family ?\ni've no family close to me\nthat's a shame . i am sorry . do you enjoy comic books ?\ni like spawn and the x men\ni love spiderman , myself . he is my favorite .\nhe is a good character for sure\nmaybe we should trade comics and go fishing sometime !\n",
+        "response": "ha that sounds good ! what is your favorite food ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.8755266737316713
+    },
+    {
+        "context": "hello , my name is larry . what is your name ?\nmy name is jerry . i farm bees for a living . you ?\nwell , i'm a chef . i absolutely love cooking . do you have nay hobbies ?\nyes , i like to cook too . but i'm not a pro like you\neven though i love cooking , i also like fishing . do you like to fish ?\nyes , i fly fish . i love it . i wish i could invite my family\nwhy can you not invite your family ?\ni've no family close to me\nthat's a shame . i am sorry . do you enjoy comic books ?\ni like spawn and the x men\ni love spiderman , myself . he is my favorite .\nhe is a good character for sure\nmaybe we should trade comics and go fishing sometime !\n",
+        "response": "i love to fish ! my parents have a pond on their farm in kentucky .\n",
+        "model": "KV-MemNN",
+        "score": 0.9261231891886937
+    },
+    {
+        "context": "hello , my name is larry . what is your name ?\nmy name is jerry . i farm bees for a living . you ?\nwell , i'm a chef . i absolutely love cooking . do you have nay hobbies ?\nyes , i like to cook too . but i'm not a pro like you\neven though i love cooking , i also like fishing . do you like to fish ?\nyes , i fly fish . i love it . i wish i could invite my family\nwhy can you not invite your family ?\ni've no family close to me\nthat's a shame . i am sorry . do you enjoy comic books ?\ni like spawn and the x men\ni love spiderman , myself . he is my favorite .\nhe is a good character for sure\nmaybe we should trade comics and go fishing sometime !\n",
+        "response": "i would love to go fishing .\n",
+        "model": "Seq2Seq",
+        "score": 0.9158701450842552
+    },
+    {
+        "context": "hello , my name is larry . what is your name ?\nmy name is jerry . i farm bees for a living . you ?\nwell , i'm a chef . i absolutely love cooking . do you have nay hobbies ?\nyes , i like to cook too . but i'm not a pro like you\neven though i love cooking , i also like fishing . do you like to fish ?\nyes , i fly fish . i love it . i wish i could invite my family\nwhy can you not invite your family ?\ni've no family close to me\nthat's a shame . i am sorry . do you enjoy comic books ?\ni like spawn and the x men\ni love spiderman , myself . he is my favorite .\nhe is a good character for sure\nmaybe we should trade comics and go fishing sometime !\n",
+        "response": "i do not know how to swim .\n",
+        "model": "Language Model",
+        "score": 0.8806200254132678
+    },
+    {
+        "context": "hello , my name is larry . what is your name ?\nmy name is jerry . i farm bees for a living . you ?\nwell , i'm a chef . i absolutely love cooking . do you have nay hobbies ?\nyes , i like to cook too . but i'm not a pro like you\neven though i love cooking , i also like fishing . do you like to fish ?\nyes , i fly fish . i love it . i wish i could invite my family\nwhy can you not invite your family ?\ni've no family close to me\nthat's a shame . i am sorry . do you enjoy comic books ?\ni like spawn and the x men\ni love spiderman , myself . he is my favorite .\nhe is a good character for sure\nmaybe we should trade comics and go fishing sometime !\n",
+        "response": "yes ! i would really enjoy that . i could show you my bees as well !\n",
+        "model": "New Human Generated",
+        "score": 0.9632669604521688
+    },
+    {
+        "context": "how are you doing today\nhello , how are you today ?\ni'm doing really well\ni'm doing great , it is rainy here .\nwhat are you doing with your day\n",
+        "response": "i am bird watching with my animals\n",
+        "model": "Original Ground Truth",
+        "score": 0.6117526044300539
+    },
+    {
+        "context": "how are you doing today\nhello , how are you today ?\ni'm doing really well\ni'm doing great , it is rainy here .\nwhat are you doing with your day\n",
+        "response": "its been ok . do you like cats ? i have 3 of them .\n",
+        "model": "KV-MemNN",
+        "score": 0.8193057636576464
+    },
+    {
+        "context": "how are you doing today\nhello , how are you today ?\ni'm doing really well\ni'm doing great , it is rainy here .\nwhat are you doing with your day\n",
+        "response": "i am just getting ready to go to the zoo .\n",
+        "model": "Seq2Seq",
+        "score": 0.664509304724468
+    },
+    {
+        "context": "how are you doing today\nhello , how are you today ?\ni'm doing really well\ni'm doing great , it is rainy here .\nwhat are you doing with your day\n",
+        "response": "i am a student , i am a student .\n",
+        "model": "Language Model",
+        "score": 0.6927848914645574
+    },
+    {
+        "context": "how are you doing today\nhello , how are you today ?\ni'm doing really well\ni'm doing great , it is rainy here .\nwhat are you doing with your day\n",
+        "response": "i'm bird watching with my cats right now . how about you ?\n",
+        "model": "New Human Generated",
+        "score": 0.8546035446366606
+    },
+    {
+        "context": "hey there i live on a farm .\n",
+        "response": "i am a piano teacher on the side\n",
+        "model": "Original Ground Truth",
+        "score": 0.5728522766920997
+    },
+    {
+        "context": "hey there i live on a farm .\n",
+        "response": "i want to qualify for an event or professionally compete at cow milking someday\n",
+        "model": "KV-MemNN",
+        "score": 0.7130738726658279
+    },
+    {
+        "context": "hey there i live on a farm .\n",
+        "response": "i am in the city , i play the piano\n",
+        "model": "Seq2Seq",
+        "score": 0.5587373220592314
+    },
+    {
+        "context": "hey there i live on a farm .\n",
+        "response": "i am a teacher , what do you do ?\n",
+        "model": "Language Model",
+        "score": 0.6652644777553934
+    },
+    {
+        "context": "hey there i live on a farm .\n",
+        "response": "cool , do you have animals ? i'm very musical , i play several instruments and teach piano on the side .\n",
+        "model": "New Human Generated",
+        "score": 0.8364384752662302
+    },
+    {
+        "context": "i just got back from my salsa dance lessons\nthat sounds like a really fun time . i was just meditating\nthat is so relaxing . my lite brite patterns are relaxing too\n",
+        "response": "i'm buddhist , my spiritual journey relaxes me\n",
+        "model": "Original Ground Truth",
+        "score": 0.7072424259563526
+    },
+    {
+        "context": "i just got back from my salsa dance lessons\nthat sounds like a really fun time . i was just meditating\nthat is so relaxing . my lite brite patterns are relaxing too\n",
+        "response": "my days are pretty much always relaxing . i do not have to raise a finger .\n",
+        "model": "KV-MemNN",
+        "score": 0.7746444735512439
+    },
+    {
+        "context": "i just got back from my salsa dance lessons\nthat sounds like a really fun time . i was just meditating\nthat is so relaxing . my lite brite patterns are relaxing too\n",
+        "response": "i love to eat it with my family\n",
+        "model": "Seq2Seq",
+        "score": 0.5642475970316426
+    },
+    {
+        "context": "i just got back from my salsa dance lessons\nthat sounds like a really fun time . i was just meditating\nthat is so relaxing . my lite brite patterns are relaxing too\n",
+        "response": "i like to go to the gym and listen to music .\n",
+        "model": "Language Model",
+        "score": 0.6180593948017441
+    },
+    {
+        "context": "i just got back from my salsa dance lessons\nthat sounds like a really fun time . i was just meditating\nthat is so relaxing . my lite brite patterns are relaxing too\n",
+        "response": "it really is . i quit my job to pursue my buddhist spirituality full time .\n",
+        "model": "New Human Generated",
+        "score": 0.6630692430169326
+    },
+    {
+        "context": "hello . what do you like to do in your free time ?\nwell hiking in spring time is my favorite\nsounds serene . i like to workout and volunteer in my free time .\no ok i work out with my lab named trooper as well\nwhat do you do for a living ?\n",
+        "response": "mechanical engineer for chevy and nissan\n",
+        "model": "Original Ground Truth",
+        "score": 0.5935393385047426
+    },
+    {
+        "context": "hello . what do you like to do in your free time ?\nwell hiking in spring time is my favorite\nsounds serene . i like to workout and volunteer in my free time .\no ok i work out with my lab named trooper as well\nwhat do you do for a living ?\n",
+        "response": "right now i am just working towards my masters degree\n",
+        "model": "KV-MemNN",
+        "score": 0.799873174000072
+    },
+    {
+        "context": "hello . what do you like to do in your free time ?\nwell hiking in spring time is my favorite\nsounds serene . i like to workout and volunteer in my free time .\no ok i work out with my lab named trooper as well\nwhat do you do for a living ?\n",
+        "response": "i work at a school . i am a engineer .\n",
+        "model": "Seq2Seq",
+        "score": 0.6631497592968667
+    },
+    {
+        "context": "hello . what do you like to do in your free time ?\nwell hiking in spring time is my favorite\nsounds serene . i like to workout and volunteer in my free time .\no ok i work out with my lab named trooper as well\nwhat do you do for a living ?\n",
+        "response": "i am a student , but i am a student .\n",
+        "model": "Language Model",
+        "score": 0.7164087071209656
+    },
+    {
+        "context": "hello . what do you like to do in your free time ?\nwell hiking in spring time is my favorite\nsounds serene . i like to workout and volunteer in my free time .\no ok i work out with my lab named trooper as well\nwhat do you do for a living ?\n",
+        "response": "i am a mechanical engineer . how about you ?\n",
+        "model": "New Human Generated",
+        "score": 0.8583891968104116
+    },
+    {
+        "context": "hi . i just got done eating vanilla ice cream . no self control with it . you ?\ni'm the same way with rap\nrap is cool . my cats like it , both of them .\ni produce rap for people .\nmaybe you could make a rap about my 1000 hats . i'm a collector .\nsure while riding in my honda civic\nwhen you finish that you could make a rap about my 1992 olympic gold .\nthen we can celebrate with pizza\nyum ! and vanilla ice cream .\n",
+        "response": "right is it not the best ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.7095905667417273
+    },
+    {
+        "context": "hi . i just got done eating vanilla ice cream . no self control with it . you ?\ni'm the same way with rap\nrap is cool . my cats like it , both of them .\ni produce rap for people .\nmaybe you could make a rap about my 1000 hats . i'm a collector .\nsure while riding in my honda civic\nwhen you finish that you could make a rap about my 1992 olympic gold .\nthen we can celebrate with pizza\nyum ! and vanilla ice cream .\n",
+        "response": "that sounds great i also like ice cream\n",
+        "model": "KV-MemNN",
+        "score": 0.9250509052702464
+    },
+    {
+        "context": "hi . i just got done eating vanilla ice cream . no self control with it . you ?\ni'm the same way with rap\nrap is cool . my cats like it , both of them .\ni produce rap for people .\nmaybe you could make a rap about my 1000 hats . i'm a collector .\nsure while riding in my honda civic\nwhen you finish that you could make a rap about my 1992 olympic gold .\nthen we can celebrate with pizza\nyum ! and vanilla ice cream .\n",
+        "response": "i love ice cream . i am a fan of it\n",
+        "model": "Seq2Seq",
+        "score": 0.8385149252528344
+    },
+    {
+        "context": "hi . i just got done eating vanilla ice cream . no self control with it . you ?\ni'm the same way with rap\nrap is cool . my cats like it , both of them .\ni produce rap for people .\nmaybe you could make a rap about my 1000 hats . i'm a collector .\nsure while riding in my honda civic\nwhen you finish that you could make a rap about my 1992 olympic gold .\nthen we can celebrate with pizza\nyum ! and vanilla ice cream .\n",
+        "response": "i like to eat fish .\n",
+        "model": "Language Model",
+        "score": 0.6774665047310485
+    },
+    {
+        "context": "hi . i just got done eating vanilla ice cream . no self control with it . you ?\ni'm the same way with rap\nrap is cool . my cats like it , both of them .\ni produce rap for people .\nmaybe you could make a rap about my 1000 hats . i'm a collector .\nsure while riding in my honda civic\nwhen you finish that you could make a rap about my 1992 olympic gold .\nthen we can celebrate with pizza\nyum ! and vanilla ice cream .\n",
+        "response": "yes ! maybe a treat for my pet charlie as well .\n",
+        "model": "New Human Generated",
+        "score": 0.9150536416547063
+    },
+    {
+        "context": "good morning how old are you i am 34\ni am much older than that . my grandchildren are in their thirties\ndo you have any pets ? my two dogs are my everything .\n",
+        "response": "no pets . i am retired so i love to travel . pets would slow me down\n",
+        "model": "Original Ground Truth",
+        "score": 0.7400338611414389
+    },
+    {
+        "context": "good morning how old are you i am 34\ni am much older than that . my grandchildren are in their thirties\ndo you have any pets ? my two dogs are my everything .\n",
+        "response": "sounds good ! i have also 6 cats .\n",
+        "model": "KV-MemNN",
+        "score": 0.8621789339950241
+    },
+    {
+        "context": "good morning how old are you i am 34\ni am much older than that . my grandchildren are in their thirties\ndo you have any pets ? my two dogs are my everything .\n",
+        "response": "i have a couple of grandchildren and a husband .\n",
+        "model": "Seq2Seq",
+        "score": 0.8720068366979503
+    },
+    {
+        "context": "good morning how old are you i am 34\ni am much older than that . my grandchildren are in their thirties\ndo you have any pets ? my two dogs are my everything .\n",
+        "response": "i do not have any pets , but i do like to go fishing .\n",
+        "model": "Language Model",
+        "score": 0.7704764222479199
+    },
+    {
+        "context": "good morning how old are you i am 34\ni am much older than that . my grandchildren are in their thirties\ndo you have any pets ? my two dogs are my everything .\n",
+        "response": "i don't have pets . i'm retired now and just living my best life !\n",
+        "model": "New Human Generated",
+        "score": 0.852189241513523
+    },
+    {
+        "context": "hi , how are you doing ?\ndoing good . just strumming my guitar . how about you ?\ni am fine , i was watching a cooking show , i like those\ndo you like cooking or baking ? or both ?\nneither , i just like to eat . for example i like hummus\nmy go to snack is chocolate bars\nme too ! i am vegan but still love chocolate\nwhat other hobbies do you have ? i play violin and guitar\ni like extreme sensations , like sky diving and rollercoasters\nyikes i hate roller coasters . they are so scary .\ni am afraid of water , i am not good at swimming\nwhat do you do for work ? i am an electrician just like my dad .\ni like electricity and electronics . i'm a bartender\n",
+        "response": "do you speak any languages ? i'm teaching myself chinese\n",
+        "model": "Original Ground Truth",
+        "score": 0.9374697951675943
+    },
+    {
+        "context": "hi , how are you doing ?\ndoing good . just strumming my guitar . how about you ?\ni am fine , i was watching a cooking show , i like those\ndo you like cooking or baking ? or both ?\nneither , i just like to eat . for example i like hummus\nmy go to snack is chocolate bars\nme too ! i am vegan but still love chocolate\nwhat other hobbies do you have ? i play violin and guitar\ni like extreme sensations , like sky diving and rollercoasters\nyikes i hate roller coasters . they are so scary .\ni am afraid of water , i am not good at swimming\nwhat do you do for work ? i am an electrician just like my dad .\ni like electricity and electronics . i'm a bartender\n",
+        "response": "awesome . i go to bars alot in the city . great place to be .\n",
+        "model": "KV-MemNN",
+        "score": 0.9466038044374986
+    },
+    {
+        "context": "hi , how are you doing ?\ndoing good . just strumming my guitar . how about you ?\ni am fine , i was watching a cooking show , i like those\ndo you like cooking or baking ? or both ?\nneither , i just like to eat . for example i like hummus\nmy go to snack is chocolate bars\nme too ! i am vegan but still love chocolate\nwhat other hobbies do you have ? i play violin and guitar\ni like extreme sensations , like sky diving and rollercoasters\nyikes i hate roller coasters . they are so scary .\ni am afraid of water , i am not good at swimming\nwhat do you do for work ? i am an electrician just like my dad .\ni like electricity and electronics . i'm a bartender\n",
+        "response": "i am a bartender , i love to play the violin .\n",
+        "model": "Seq2Seq",
+        "score": 0.9089908046280739
+    },
+    {
+        "context": "hi , how are you doing ?\ndoing good . just strumming my guitar . how about you ?\ni am fine , i was watching a cooking show , i like those\ndo you like cooking or baking ? or both ?\nneither , i just like to eat . for example i like hummus\nmy go to snack is chocolate bars\nme too ! i am vegan but still love chocolate\nwhat other hobbies do you have ? i play violin and guitar\ni like extreme sensations , like sky diving and rollercoasters\nyikes i hate roller coasters . they are so scary .\ni am afraid of water , i am not good at swimming\nwhat do you do for work ? i am an electrician just like my dad .\ni like electricity and electronics . i'm a bartender\n",
+        "response": "i like to eat too much junk food .\n",
+        "model": "Language Model",
+        "score": 0.8670267363440269
+    },
+    {
+        "context": "hi , how are you doing ?\ndoing good . just strumming my guitar . how about you ?\ni am fine , i was watching a cooking show , i like those\ndo you like cooking or baking ? or both ?\nneither , i just like to eat . for example i like hummus\nmy go to snack is chocolate bars\nme too ! i am vegan but still love chocolate\nwhat other hobbies do you have ? i play violin and guitar\ni like extreme sensations , like sky diving and rollercoasters\nyikes i hate roller coasters . they are so scary .\ni am afraid of water , i am not good at swimming\nwhat do you do for work ? i am an electrician just like my dad .\ni like electricity and electronics . i'm a bartender\n",
+        "response": "i wish i could make fancy cocktails ! my secret talent is that i can speak chinese !\n",
+        "model": "New Human Generated",
+        "score": 0.940166154617084
+    },
+    {
+        "context": "good morning . how are you ?\ni'm ok , drinking a lot of coffee , how about you ?\njust relaxing waiting on my wife and three children to get ready .\nwhere are you all going to ?\nwe are going to the park . e do it once a week . how about you ?\ni'm getting ready to go mountain biking . it is fun !\nwe are going to get my fav chocolate ice cream on the way home . have fun !\ni love ice cream too , but mostly coffee flavor .\nwhat else do you like besides coffee ? my family steers c ; ear of it .\nwell , i don't drink alcohol , so coffee and diet soda . what about you ?\ni am an ice cream and ice water kind of guy .\nah . so is my dad , he worked construction , he is the same .\nwhat about your mom ? what is she like ?\n",
+        "response": "she is the greatest mom , i saw her yesterday . do you see your mom ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.8864420048823114
+    },
+    {
+        "context": "good morning . how are you ?\ni'm ok , drinking a lot of coffee , how about you ?\njust relaxing waiting on my wife and three children to get ready .\nwhere are you all going to ?\nwe are going to the park . e do it once a week . how about you ?\ni'm getting ready to go mountain biking . it is fun !\nwe are going to get my fav chocolate ice cream on the way home . have fun !\ni love ice cream too , but mostly coffee flavor .\nwhat else do you like besides coffee ? my family steers c ; ear of it .\nwell , i don't drink alcohol , so coffee and diet soda . what about you ?\ni am an ice cream and ice water kind of guy .\nah . so is my dad , he worked construction , he is the same .\nwhat about your mom ? what is she like ?\n",
+        "response": "well what does she like about your friend ?\n",
+        "model": "KV-MemNN",
+        "score": 0.8867075593010225
+    },
+    {
+        "context": "good morning . how are you ?\ni'm ok , drinking a lot of coffee , how about you ?\njust relaxing waiting on my wife and three children to get ready .\nwhere are you all going to ?\nwe are going to the park . e do it once a week . how about you ?\ni'm getting ready to go mountain biking . it is fun !\nwe are going to get my fav chocolate ice cream on the way home . have fun !\ni love ice cream too , but mostly coffee flavor .\nwhat else do you like besides coffee ? my family steers c ; ear of it .\nwell , i don't drink alcohol , so coffee and diet soda . what about you ?\ni am an ice cream and ice water kind of guy .\nah . so is my dad , he worked construction , he is the same .\nwhat about your mom ? what is she like ?\n",
+        "response": "she is a very good mother . she works for the construction company .\n",
+        "model": "Seq2Seq",
+        "score": 0.834988233806849
+    },
+    {
+        "context": "good morning . how are you ?\ni'm ok , drinking a lot of coffee , how about you ?\njust relaxing waiting on my wife and three children to get ready .\nwhere are you all going to ?\nwe are going to the park . e do it once a week . how about you ?\ni'm getting ready to go mountain biking . it is fun !\nwe are going to get my fav chocolate ice cream on the way home . have fun !\ni love ice cream too , but mostly coffee flavor .\nwhat else do you like besides coffee ? my family steers c ; ear of it .\nwell , i don't drink alcohol , so coffee and diet soda . what about you ?\ni am an ice cream and ice water kind of guy .\nah . so is my dad , he worked construction , he is the same .\nwhat about your mom ? what is she like ?\n",
+        "response": "she was a stay at home mom . i am a big fan of the walking dead .\n",
+        "model": "Language Model",
+        "score": 0.7924003211989035
+    },
+    {
+        "context": "good morning . how are you ?\ni'm ok , drinking a lot of coffee , how about you ?\njust relaxing waiting on my wife and three children to get ready .\nwhere are you all going to ?\nwe are going to the park . e do it once a week . how about you ?\ni'm getting ready to go mountain biking . it is fun !\nwe are going to get my fav chocolate ice cream on the way home . have fun !\ni love ice cream too , but mostly coffee flavor .\nwhat else do you like besides coffee ? my family steers c ; ear of it .\nwell , i don't drink alcohol , so coffee and diet soda . what about you ?\ni am an ice cream and ice water kind of guy .\nah . so is my dad , he worked construction , he is the same .\nwhat about your mom ? what is she like ?\n",
+        "response": "she was a stay at home mom obsessed with the color pink . i hate that color now !\n",
+        "model": "New Human Generated",
+        "score": 0.82442720481002
+    },
+    {
+        "context": "hi , how is it going . my name is michelle .\nhi . i'm justin . i just got done relaxing in the tub .\nthat sounds great . i love to tan . what sort of music do you listen to ?\ni listen to a bit of everything . it helps me focus for my chess tournaments\nbritney spears is my favorite ! who is yours ?\nright now i listen to a lot of mumford and sons .\ndo you have a weight problem like me ?\ni am a little self conscious . thirty is not as easy as i remember twenty being .\nwhat do you like to eat ? i diet all the time .\ni tend to stay in and cook for myself since i quit drinking a few years ago .\nthat is probably a lot healthier and saves you money . i eat out all the time .\nmy dad had me hooked on high protein foods like fish and chicken when i was training .\nwhat are you training for ?\n",
+        "response": "i am competing for a national chess tournament . it helps me keep focus\n",
+        "model": "Original Ground Truth",
+        "score": 0.7533277559663781
+    },
+    {
+        "context": "hi , how is it going . my name is michelle .\nhi . i'm justin . i just got done relaxing in the tub .\nthat sounds great . i love to tan . what sort of music do you listen to ?\ni listen to a bit of everything . it helps me focus for my chess tournaments\nbritney spears is my favorite ! who is yours ?\nright now i listen to a lot of mumford and sons .\ndo you have a weight problem like me ?\ni am a little self conscious . thirty is not as easy as i remember twenty being .\nwhat do you like to eat ? i diet all the time .\ni tend to stay in and cook for myself since i quit drinking a few years ago .\nthat is probably a lot healthier and saves you money . i eat out all the time .\nmy dad had me hooked on high protein foods like fish and chicken when i was training .\nwhat are you training for ?\n",
+        "response": "i have pitbulls and harleys . i am very hardcore .\n",
+        "model": "KV-MemNN",
+        "score": 0.7923057959629646
+    },
+    {
+        "context": "hi , how is it going . my name is michelle .\nhi . i'm justin . i just got done relaxing in the tub .\nthat sounds great . i love to tan . what sort of music do you listen to ?\ni listen to a bit of everything . it helps me focus for my chess tournaments\nbritney spears is my favorite ! who is yours ?\nright now i listen to a lot of mumford and sons .\ndo you have a weight problem like me ?\ni am a little self conscious . thirty is not as easy as i remember twenty being .\nwhat do you like to eat ? i diet all the time .\ni tend to stay in and cook for myself since i quit drinking a few years ago .\nthat is probably a lot healthier and saves you money . i eat out all the time .\nmy dad had me hooked on high protein foods like fish and chicken when i was training .\nwhat are you training for ?\n",
+        "response": "i am a professional chess player .\n",
+        "model": "Seq2Seq",
+        "score": 0.7687622012411041
+    },
+    {
+        "context": "hi , how is it going . my name is michelle .\nhi . i'm justin . i just got done relaxing in the tub .\nthat sounds great . i love to tan . what sort of music do you listen to ?\ni listen to a bit of everything . it helps me focus for my chess tournaments\nbritney spears is my favorite ! who is yours ?\nright now i listen to a lot of mumford and sons .\ndo you have a weight problem like me ?\ni am a little self conscious . thirty is not as easy as i remember twenty being .\nwhat do you like to eat ? i diet all the time .\ni tend to stay in and cook for myself since i quit drinking a few years ago .\nthat is probably a lot healthier and saves you money . i eat out all the time .\nmy dad had me hooked on high protein foods like fish and chicken when i was training .\nwhat are you training for ?\n",
+        "response": "i am a student , i am a student .\n",
+        "model": "Language Model",
+        "score": 0.8547687718941276
+    },
+    {
+        "context": "hi , how is it going . my name is michelle .\nhi . i'm justin . i just got done relaxing in the tub .\nthat sounds great . i love to tan . what sort of music do you listen to ?\ni listen to a bit of everything . it helps me focus for my chess tournaments\nbritney spears is my favorite ! who is yours ?\nright now i listen to a lot of mumford and sons .\ndo you have a weight problem like me ?\ni am a little self conscious . thirty is not as easy as i remember twenty being .\nwhat do you like to eat ? i diet all the time .\ni tend to stay in and cook for myself since i quit drinking a few years ago .\nthat is probably a lot healthier and saves you money . i eat out all the time .\nmy dad had me hooked on high protein foods like fish and chicken when i was training .\nwhat are you training for ?\n",
+        "response": "chess tournaments ! protein makes your brain more activate for intense chess matches .\n",
+        "model": "New Human Generated",
+        "score": 0.7226229902676147
+    },
+    {
+        "context": "hi i love cooking and fishing ! and reading comic books\noh , i just like gardening .\nif i am not in the kitchen , i am on my boat in the water\nthat is cool , i got a job just now in a gas station\ncool , i got a spiderman comic at a gas station\n",
+        "response": "i had a spiderman comic as a kid . my adopted parents gave it to me .\n",
+        "model": "Original Ground Truth",
+        "score": 0.6357077926066933
+    },
+    {
+        "context": "hi i love cooking and fishing ! and reading comic books\noh , i just like gardening .\nif i am not in the kitchen , i am on my boat in the water\nthat is cool , i got a job just now in a gas station\ncool , i got a spiderman comic at a gas station\n",
+        "response": "working at a gas station sounds interesting . what do you do for fun ?\n",
+        "model": "KV-MemNN",
+        "score": 0.7096279276880196
+    },
+    {
+        "context": "hi i love cooking and fishing ! and reading comic books\noh , i just like gardening .\nif i am not in the kitchen , i am on my boat in the water\nthat is cool , i got a job just now in a gas station\ncool , i got a spiderman comic at a gas station\n",
+        "response": "i love to work out , i am a cashier at a gas station\n",
+        "model": "Seq2Seq",
+        "score": 0.6568326358501628
+    },
+    {
+        "context": "hi i love cooking and fishing ! and reading comic books\noh , i just like gardening .\nif i am not in the kitchen , i am on my boat in the water\nthat is cool , i got a job just now in a gas station\ncool , i got a spiderman comic at a gas station\n",
+        "response": "oh , i am sorry to hear that . i am a big fan of the walking dead .\n",
+        "model": "Language Model",
+        "score": 0.6386561513487167
+    },
+    {
+        "context": "hi i love cooking and fishing ! and reading comic books\noh , i just like gardening .\nif i am not in the kitchen , i am on my boat in the water\nthat is cool , i got a job just now in a gas station\ncool , i got a spiderman comic at a gas station\n",
+        "response": "that's cool . my dad keeps trying to set me up on blind dates . it's getting annoying !\n",
+        "model": "New Human Generated",
+        "score": 0.863620007884991
+    },
+    {
+        "context": "hello do you enjoy sports ?\nyes . baseball , tennis and the olympics are my favorite sports . how about you ?\ni really enjoy golf and combat fighting , what occupation do you currently have ?\ni'm an author , blogger and freelancer . what is your occupation ?\ni am a it i've been working there for a very long time !\ndo you have an information technology degree ?\nyes did you attend college at all ?\ni earned an undergraduate degree in communications but have not found related work .\nwhere are you currently located ? i live in florida .\ni live in st . louis , missouri . are there any interesting landmarks near you ?\nnot really but i do enjoy to travel ! have you ever traveled anywhere ?\ni have traveled to cleveland , cincinnati , miami , niagara falls and the bahamas .\nare you a male or female ? i am a 20 year old male\n",
+        "response": "i am a 44 year old male .\n",
+        "model": "Original Ground Truth",
+        "score": 0.8871059728568456
+    },
+    {
+        "context": "hello do you enjoy sports ?\nyes . baseball , tennis and the olympics are my favorite sports . how about you ?\ni really enjoy golf and combat fighting , what occupation do you currently have ?\ni'm an author , blogger and freelancer . what is your occupation ?\ni am a it i've been working there for a very long time !\ndo you have an information technology degree ?\nyes did you attend college at all ?\ni earned an undergraduate degree in communications but have not found related work .\nwhere are you currently located ? i live in florida .\ni live in st . louis , missouri . are there any interesting landmarks near you ?\nnot really but i do enjoy to travel ! have you ever traveled anywhere ?\ni have traveled to cleveland , cincinnati , miami , niagara falls and the bahamas .\nare you a male or female ? i am a 20 year old male\n",
+        "response": "i am female , what about you\n",
+        "model": "KV-MemNN",
+        "score": 0.8450029852986306
+    },
+    {
+        "context": "hello do you enjoy sports ?\nyes . baseball , tennis and the olympics are my favorite sports . how about you ?\ni really enjoy golf and combat fighting , what occupation do you currently have ?\ni'm an author , blogger and freelancer . what is your occupation ?\ni am a it i've been working there for a very long time !\ndo you have an information technology degree ?\nyes did you attend college at all ?\ni earned an undergraduate degree in communications but have not found related work .\nwhere are you currently located ? i live in florida .\ni live in st . louis , missouri . are there any interesting landmarks near you ?\nnot really but i do enjoy to travel ! have you ever traveled anywhere ?\ni have traveled to cleveland , cincinnati , miami , niagara falls and the bahamas .\nare you a male or female ? i am a 20 year old male\n",
+        "response": "i am a female . i am a teacher .\n",
+        "model": "Seq2Seq",
+        "score": 0.830088164560316
+    },
+    {
+        "context": "hello do you enjoy sports ?\nyes . baseball , tennis and the olympics are my favorite sports . how about you ?\ni really enjoy golf and combat fighting , what occupation do you currently have ?\ni'm an author , blogger and freelancer . what is your occupation ?\ni am a it i've been working there for a very long time !\ndo you have an information technology degree ?\nyes did you attend college at all ?\ni earned an undergraduate degree in communications but have not found related work .\nwhere are you currently located ? i live in florida .\ni live in st . louis , missouri . are there any interesting landmarks near you ?\nnot really but i do enjoy to travel ! have you ever traveled anywhere ?\ni have traveled to cleveland , cincinnati , miami , niagara falls and the bahamas .\nare you a male or female ? i am a 20 year old male\n",
+        "response": "i am not . i am a student .\n",
+        "model": "Language Model",
+        "score": 0.781395474335694
+    },
+    {
+        "context": "hello do you enjoy sports ?\nyes . baseball , tennis and the olympics are my favorite sports . how about you ?\ni really enjoy golf and combat fighting , what occupation do you currently have ?\ni'm an author , blogger and freelancer . what is your occupation ?\ni am a it i've been working there for a very long time !\ndo you have an information technology degree ?\nyes did you attend college at all ?\ni earned an undergraduate degree in communications but have not found related work .\nwhere are you currently located ? i live in florida .\ni live in st . louis , missouri . are there any interesting landmarks near you ?\nnot really but i do enjoy to travel ! have you ever traveled anywhere ?\ni have traveled to cleveland , cincinnati , miami , niagara falls and the bahamas .\nare you a male or female ? i am a 20 year old male\n",
+        "response": "i'm female . i love photography and i'm always taking pictures .\n",
+        "model": "New Human Generated",
+        "score": 0.8416128321627296
+    },
+    {
+        "context": "hi there how are you ?\n",
+        "response": "good i am studying to be a lawyer right now\n",
+        "model": "Original Ground Truth",
+        "score": 0.7291860146600656
+    },
+    {
+        "context": "hi there how are you ?\n",
+        "response": "i am well how are you\n",
+        "model": "KV-MemNN",
+        "score": 0.7732795613421073
+    },
+    {
+        "context": "hi there how are you ?\n",
+        "response": "i'm doing well , how are you ?\n",
+        "model": "Seq2Seq",
+        "score": 0.8802906955047348
+    },
+    {
+        "context": "hi there how are you ?\n",
+        "response": "i'm doing well . how are you ?\n",
+        "model": "Language Model",
+        "score": 0.8867933685971574
+    },
+    {
+        "context": "hi there how are you ?\n",
+        "response": "i'm doing well . just spent some time with my horse !\n",
+        "model": "New Human Generated",
+        "score": 0.8713156137461211
+    },
+    {
+        "context": "hi how are you doing today ?\ni am doing good . how about you ?\ni'm doing great ! ! what kind of things do you like doing ?\nbest thing is going to see the rolling stones every year !\ni love the rolling stones . i love music especially while working out . it keeps me motivated\nit is a cool bank . i eat clean . how about you ?\nsame with me i like to stay in shape\nwhat do you do for work ?\ni am a nurse work in a trauma center in the trauma icu and you\ni am majoring in economics .\ndo you know where you will work after school ?\nno idea . hopefully somewhere near the new house i bought .\ni bough my house when i turned 19 best this i have done\nwow . that is young . you must be rich .\nno not rich just was smart with my money and bought fix upper\nthat is smart . what kind of work does your house need ?\nmainly cosmetics stuff . we had to tear out all carpet and re drywall every room\n",
+        "response": "that sounds like a lot of work !\n",
+        "model": "Original Ground Truth",
+        "score": 0.9045209667418929
+    },
+    {
+        "context": "hi how are you doing today ?\ni am doing good . how about you ?\ni'm doing great ! ! what kind of things do you like doing ?\nbest thing is going to see the rolling stones every year !\ni love the rolling stones . i love music especially while working out . it keeps me motivated\nit is a cool bank . i eat clean . how about you ?\nsame with me i like to stay in shape\nwhat do you do for work ?\ni am a nurse work in a trauma center in the trauma icu and you\ni am majoring in economics .\ndo you know where you will work after school ?\nno idea . hopefully somewhere near the new house i bought .\ni bough my house when i turned 19 best this i have done\nwow . that is young . you must be rich .\nno not rich just was smart with my money and bought fix upper\nthat is smart . what kind of work does your house need ?\nmainly cosmetics stuff . we had to tear out all carpet and re drywall every room\n",
+        "response": "its a good pasttime . i also teach special ed , so cosmetics is a nice break .\n",
+        "model": "KV-MemNN",
+        "score": 0.939921584614991
+    },
+    {
+        "context": "hi how are you doing today ?\ni am doing good . how about you ?\ni'm doing great ! ! what kind of things do you like doing ?\nbest thing is going to see the rolling stones every year !\ni love the rolling stones . i love music especially while working out . it keeps me motivated\nit is a cool bank . i eat clean . how about you ?\nsame with me i like to stay in shape\nwhat do you do for work ?\ni am a nurse work in a trauma center in the trauma icu and you\ni am majoring in economics .\ndo you know where you will work after school ?\nno idea . hopefully somewhere near the new house i bought .\ni bough my house when i turned 19 best this i have done\nwow . that is young . you must be rich .\nno not rich just was smart with my money and bought fix upper\nthat is smart . what kind of work does your house need ?\nmainly cosmetics stuff . we had to tear out all carpet and re drywall every room\n",
+        "response": "oh wow . that is a lot of work .\n",
+        "model": "Seq2Seq",
+        "score": 0.9030683830347007
+    },
+    {
+        "context": "hi how are you doing today ?\ni am doing good . how about you ?\ni'm doing great ! ! what kind of things do you like doing ?\nbest thing is going to see the rolling stones every year !\ni love the rolling stones . i love music especially while working out . it keeps me motivated\nit is a cool bank . i eat clean . how about you ?\nsame with me i like to stay in shape\nwhat do you do for work ?\ni am a nurse work in a trauma center in the trauma icu and you\ni am majoring in economics .\ndo you know where you will work after school ?\nno idea . hopefully somewhere near the new house i bought .\ni bough my house when i turned 19 best this i have done\nwow . that is young . you must be rich .\nno not rich just was smart with my money and bought fix upper\nthat is smart . what kind of work does your house need ?\nmainly cosmetics stuff . we had to tear out all carpet and re drywall every room\n",
+        "response": "i am a nurse , i love to cook .\n",
+        "model": "Language Model",
+        "score": 0.8798096892498826
+    },
+    {
+        "context": "hi how are you doing today ?\ni am doing good . how about you ?\ni'm doing great ! ! what kind of things do you like doing ?\nbest thing is going to see the rolling stones every year !\ni love the rolling stones . i love music especially while working out . it keeps me motivated\nit is a cool bank . i eat clean . how about you ?\nsame with me i like to stay in shape\nwhat do you do for work ?\ni am a nurse work in a trauma center in the trauma icu and you\ni am majoring in economics .\ndo you know where you will work after school ?\nno idea . hopefully somewhere near the new house i bought .\ni bough my house when i turned 19 best this i have done\nwow . that is young . you must be rich .\nno not rich just was smart with my money and bought fix upper\nthat is smart . what kind of work does your house need ?\nmainly cosmetics stuff . we had to tear out all carpet and re drywall every room\n",
+        "response": "that's not too bad . my house was expensive , but luckily it didn't need any work !\n",
+        "model": "New Human Generated",
+        "score": 0.9505655415760093
+    },
+    {
+        "context": "hello ! i don't go anywhere for when i work !\nmy goal is to run a k !\nwow ! that's very impressive to me\ni want to become a physical therapist\nthat'sn't a bad idea ! make a lot of money\nwhat is your dream job ?\nmy dream job is professional baseball . i currently play baseball at lsu\ni think that sounds pretty cool\ni am excited ! i am expected to be drafted this year !\nthat's cool ! i won homecoming queen\nwow ! that's impressive ! i bet you are good looking !\nyes i am quite beautiful\nadd me on snapchat ! i love the app\n",
+        "response": "yeah that app is really cool !\n",
+        "model": "Original Ground Truth",
+        "score": 0.8413557395239946
+    },
+    {
+        "context": "hello ! i don't go anywhere for when i work !\nmy goal is to run a k !\nwow ! that's very impressive to me\ni want to become a physical therapist\nthat'sn't a bad idea ! make a lot of money\nwhat is your dream job ?\nmy dream job is professional baseball . i currently play baseball at lsu\ni think that sounds pretty cool\ni am excited ! i am expected to be drafted this year !\nthat's cool ! i won homecoming queen\nwow ! that's impressive ! i bet you are good looking !\nyes i am quite beautiful\nadd me on snapchat ! i love the app\n",
+        "response": "are you currently in school ?\n",
+        "model": "KV-MemNN",
+        "score": 0.8027543287118164
+    },
+    {
+        "context": "hello ! i don't go anywhere for when i work !\nmy goal is to run a k !\nwow ! that's very impressive to me\ni want to become a physical therapist\nthat'sn't a bad idea ! make a lot of money\nwhat is your dream job ?\nmy dream job is professional baseball . i currently play baseball at lsu\ni think that sounds pretty cool\ni am excited ! i am expected to be drafted this year !\nthat's cool ! i won homecoming queen\nwow ! that's impressive ! i bet you are good looking !\nyes i am quite beautiful\nadd me on snapchat ! i love the app\n",
+        "response": "i am not sure what that is !\n",
+        "model": "Seq2Seq",
+        "score": 0.6678546248301201
+    },
+    {
+        "context": "hello ! i don't go anywhere for when i work !\nmy goal is to run a k !\nwow ! that's very impressive to me\ni want to become a physical therapist\nthat'sn't a bad idea ! make a lot of money\nwhat is your dream job ?\nmy dream job is professional baseball . i currently play baseball at lsu\ni think that sounds pretty cool\ni am excited ! i am expected to be drafted this year !\nthat's cool ! i won homecoming queen\nwow ! that's impressive ! i bet you are good looking !\nyes i am quite beautiful\nadd me on snapchat ! i love the app\n",
+        "response": "i like to go to the gym and listen to music .\n",
+        "model": "Language Model",
+        "score": 0.6085302458870006
+    },
+    {
+        "context": "hello ! i don't go anywhere for when i work !\nmy goal is to run a k !\nwow ! that's very impressive to me\ni want to become a physical therapist\nthat'sn't a bad idea ! make a lot of money\nwhat is your dream job ?\nmy dream job is professional baseball . i currently play baseball at lsu\ni think that sounds pretty cool\ni am excited ! i am expected to be drafted this year !\nthat's cool ! i won homecoming queen\nwow ! that's impressive ! i bet you are good looking !\nyes i am quite beautiful\nadd me on snapchat ! i love the app\n",
+        "response": "maybe ! i'm also pretty smart , i make straight as in school .\n",
+        "model": "New Human Generated",
+        "score": 0.6479313588954917
+    },
+    {
+        "context": "hi ! do you have a house in the clouds ?\nno but i'd love to get one\ni do . do you have any superpowers ?\nnice ! when i wear my motorbike helmet i do feel like a super hero sometimes\ncan you make time stop while wearing your helmet ?\ni wish i could but i cant . do you have a motorbike ?\nno , i have a pink bike though .\n",
+        "response": "why did you choose pink out of all colors ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.7980039044118186
+    },
+    {
+        "context": "hi ! do you have a house in the clouds ?\nno but i'd love to get one\ni do . do you have any superpowers ?\nnice ! when i wear my motorbike helmet i do feel like a super hero sometimes\ncan you make time stop while wearing your helmet ?\ni wish i could but i cant . do you have a motorbike ?\nno , i have a pink bike though .\n",
+        "response": "your favorite color is pink ?\n",
+        "model": "KV-MemNN",
+        "score": 0.8681320098916809
+    },
+    {
+        "context": "hi ! do you have a house in the clouds ?\nno but i'd love to get one\ni do . do you have any superpowers ?\nnice ! when i wear my motorbike helmet i do feel like a super hero sometimes\ncan you make time stop while wearing your helmet ?\ni wish i could but i cant . do you have a motorbike ?\nno , i have a pink bike though .\n",
+        "response": "i like to drive my new truck\n",
+        "model": "Seq2Seq",
+        "score": 0.5618361158605841
+    },
+    {
+        "context": "hi ! do you have a house in the clouds ?\nno but i'd love to get one\ni do . do you have any superpowers ?\nnice ! when i wear my motorbike helmet i do feel like a super hero sometimes\ncan you make time stop while wearing your helmet ?\ni wish i could but i cant . do you have a motorbike ?\nno , i have a pink bike though .\n",
+        "response": "i like the color red . i like red .\n",
+        "model": "Language Model",
+        "score": 0.7734066124056952
+    },
+    {
+        "context": "hi ! do you have a house in the clouds ?\nno but i'd love to get one\ni do . do you have any superpowers ?\nnice ! when i wear my motorbike helmet i do feel like a super hero sometimes\ncan you make time stop while wearing your helmet ?\ni wish i could but i cant . do you have a motorbike ?\nno , i have a pink bike though .\n",
+        "response": "cool . my motorbike is red with a blue stripe . it looks shiny when i race !\n",
+        "model": "New Human Generated",
+        "score": 0.854586607097708
+    },
+    {
+        "context": "hello , how are you tonight ?\nok . since alabama , my home team , won saturday night .\ni'm an ohio state fan . do you skate ?\nno . too busy with all of my 19 dogs and 3 sisters .\noh wow . that is a lot of dogs .\nyes love them almost as my tacos . no i love my dogs more .\nmy fiance makes a killer fish taco with cilantro lime slaw .\nwow . my sisters and i love chicken tacos .\nthose are good too , i live in cali . along the ocean .\ni live in middle of alabama . do not get to ocean much .\ni could not stand to live inland , the ocean runs through my veins .\n",
+        "response": "yes . i want to go more but no one to stay with 19 dogs .\n",
+        "model": "Original Ground Truth",
+        "score": 0.8205394013952705
+    },
+    {
+        "context": "hello , how are you tonight ?\nok . since alabama , my home team , won saturday night .\ni'm an ohio state fan . do you skate ?\nno . too busy with all of my 19 dogs and 3 sisters .\noh wow . that is a lot of dogs .\nyes love them almost as my tacos . no i love my dogs more .\nmy fiance makes a killer fish taco with cilantro lime slaw .\nwow . my sisters and i love chicken tacos .\nthose are good too , i live in cali . along the ocean .\ni live in middle of alabama . do not get to ocean much .\ni could not stand to live inland , the ocean runs through my veins .\n",
+        "response": "are you an avid runner ? i cut my hair short so i could run better\n",
+        "model": "KV-MemNN",
+        "score": 0.7209986976785783
+    },
+    {
+        "context": "hello , how are you tonight ?\nok . since alabama , my home team , won saturday night .\ni'm an ohio state fan . do you skate ?\nno . too busy with all of my 19 dogs and 3 sisters .\noh wow . that is a lot of dogs .\nyes love them almost as my tacos . no i love my dogs more .\nmy fiance makes a killer fish taco with cilantro lime slaw .\nwow . my sisters and i love chicken tacos .\nthose are good too , i live in cali . along the ocean .\ni live in middle of alabama . do not get to ocean much .\ni could not stand to live inland , the ocean runs through my veins .\n",
+        "response": "i live in alabama . i live in alabama .\n",
+        "model": "Seq2Seq",
+        "score": 0.8618750560810854
+    },
+    {
+        "context": "hello , how are you tonight ?\nok . since alabama , my home team , won saturday night .\ni'm an ohio state fan . do you skate ?\nno . too busy with all of my 19 dogs and 3 sisters .\noh wow . that is a lot of dogs .\nyes love them almost as my tacos . no i love my dogs more .\nmy fiance makes a killer fish taco with cilantro lime slaw .\nwow . my sisters and i love chicken tacos .\nthose are good too , i live in cali . along the ocean .\ni live in middle of alabama . do not get to ocean much .\ni could not stand to live inland , the ocean runs through my veins .\n",
+        "response": "i love to travel . i love to travel .\n",
+        "model": "Language Model",
+        "score": 0.7735847219922984
+    },
+    {
+        "context": "hello , how are you tonight ?\nok . since alabama , my home team , won saturday night .\ni'm an ohio state fan . do you skate ?\nno . too busy with all of my 19 dogs and 3 sisters .\noh wow . that is a lot of dogs .\nyes love them almost as my tacos . no i love my dogs more .\nmy fiance makes a killer fish taco with cilantro lime slaw .\nwow . my sisters and i love chicken tacos .\nthose are good too , i live in cali . along the ocean .\ni live in middle of alabama . do not get to ocean much .\ni could not stand to live inland , the ocean runs through my veins .\n",
+        "response": "lucky you ! i love the ocean , can't wait to visit it again !\n",
+        "model": "New Human Generated",
+        "score": 0.8619296556908602
+    },
+    {
+        "context": "hello , do you like music ? i play the miano and guitar ! also i sing !\nthat is nice i wish i played an instrument\ni can teach you , i am a musician and a music teacher !\nthat's cool i do not like my job\ni work as a custodian , helping to pay the bills . what is your job ?\ni've a job in a nursing home\nah yeah my parents are not supporting my dream to become a musician\nmaybe if you build up a following you'll be able to do that full time\ni really wish they would accept it , but they keep telling me to get a real job .\nyeah its hard when you aren't making money\ni hope i'll make it big one day then i'll show them they are wrong\nthat's a good goal do you have a family\nyeah i got my mother and father and a boyfriend .\nis your boyfriend supportive of your music\nyes he's supportive ! do you have any dreams ?\n",
+        "response": "i really want to try and lose weight but i have no motivation\n",
+        "model": "Original Ground Truth",
+        "score": 0.8629951978607192
+    },
+    {
+        "context": "hello , do you like music ? i play the miano and guitar ! also i sing !\nthat is nice i wish i played an instrument\ni can teach you , i am a musician and a music teacher !\nthat's cool i do not like my job\ni work as a custodian , helping to pay the bills . what is your job ?\ni've a job in a nursing home\nah yeah my parents are not supporting my dream to become a musician\nmaybe if you build up a following you'll be able to do that full time\ni really wish they would accept it , but they keep telling me to get a real job .\nyeah its hard when you aren't making money\ni hope i'll make it big one day then i'll show them they are wrong\nthat's a good goal do you have a family\nyeah i got my mother and father and a boyfriend .\nis your boyfriend supportive of your music\nyes he's supportive ! do you have any dreams ?\n",
+        "response": "i will not . i put god first in everything i do\n",
+        "model": "KV-MemNN",
+        "score": 0.8423138045122356
+    },
+    {
+        "context": "hello , do you like music ? i play the miano and guitar ! also i sing !\nthat is nice i wish i played an instrument\ni can teach you , i am a musician and a music teacher !\nthat's cool i do not like my job\ni work as a custodian , helping to pay the bills . what is your job ?\ni've a job in a nursing home\nah yeah my parents are not supporting my dream to become a musician\nmaybe if you build up a following you'll be able to do that full time\ni really wish they would accept it , but they keep telling me to get a real job .\nyeah its hard when you aren't making money\ni hope i'll make it big one day then i'll show them they are wrong\nthat's a good goal do you have a family\nyeah i got my mother and father and a boyfriend .\nis your boyfriend supportive of your music\nyes he's supportive ! do you have any dreams ?\n",
+        "response": "i do not , i am a nurse\n",
+        "model": "Seq2Seq",
+        "score": 0.7672711958691708
+    },
+    {
+        "context": "hello , do you like music ? i play the miano and guitar ! also i sing !\nthat is nice i wish i played an instrument\ni can teach you , i am a musician and a music teacher !\nthat's cool i do not like my job\ni work as a custodian , helping to pay the bills . what is your job ?\ni've a job in a nursing home\nah yeah my parents are not supporting my dream to become a musician\nmaybe if you build up a following you'll be able to do that full time\ni really wish they would accept it , but they keep telling me to get a real job .\nyeah its hard when you aren't making money\ni hope i'll make it big one day then i'll show them they are wrong\nthat's a good goal do you have a family\nyeah i got my mother and father and a boyfriend .\nis your boyfriend supportive of your music\nyes he's supportive ! do you have any dreams ?\n",
+        "response": "i do not really have a favorite . i like to go fishing .\n",
+        "model": "Language Model",
+        "score": 0.9267187918088433
+    },
+    {
+        "context": "hello , do you like music ? i play the miano and guitar ! also i sing !\nthat is nice i wish i played an instrument\ni can teach you , i am a musician and a music teacher !\nthat's cool i do not like my job\ni work as a custodian , helping to pay the bills . what is your job ?\ni've a job in a nursing home\nah yeah my parents are not supporting my dream to become a musician\nmaybe if you build up a following you'll be able to do that full time\ni really wish they would accept it , but they keep telling me to get a real job .\nyeah its hard when you aren't making money\ni hope i'll make it big one day then i'll show them they are wrong\nthat's a good goal do you have a family\nyeah i got my mother and father and a boyfriend .\nis your boyfriend supportive of your music\nyes he's supportive ! do you have any dreams ?\n",
+        "response": "not really , i just spend most of my time on facebook when i am not working .\n",
+        "model": "New Human Generated",
+        "score": 0.8047542511948153
+    },
+    {
+        "context": "hello how are you this fine day ?\ni am good ! counting the days till i can move out . and you ?\ni'm playing some role playing games online today . i love the internet , probably too much !\nmy job at burger king is taking away all of my video game time .\ni work in fast food also .\nmy coworkers are always complaining i burn the burgers . you aren't my parents !\ni tried to go to school to be a vet . i hated it !\ndo you drink or do drugs ?\ni don't . do you dye your hair ? i do every 3 months .\nok good . but why dye your hair ? that is , like , drugs for your hair .\ni love to dye it blue . red reminds me of blood and i faint from that !\nblue ! ? blue ! ? i hate blue ! ree ! ! !\nwhat color should i dye it ?\n",
+        "response": "black , like my soul . i am very depressed from working at burger king .\n",
+        "model": "Original Ground Truth",
+        "score": 0.81748088000909
+    },
+    {
+        "context": "hello how are you this fine day ?\ni am good ! counting the days till i can move out . and you ?\ni'm playing some role playing games online today . i love the internet , probably too much !\nmy job at burger king is taking away all of my video game time .\ni work in fast food also .\nmy coworkers are always complaining i burn the burgers . you aren't my parents !\ni tried to go to school to be a vet . i hated it !\ndo you drink or do drugs ?\ni don't . do you dye your hair ? i do every 3 months .\nok good . but why dye your hair ? that is , like , drugs for your hair .\ni love to dye it blue . red reminds me of blood and i faint from that !\nblue ! ? blue ! ? i hate blue ! ree ! ! !\nwhat color should i dye it ?\n",
+        "response": "naturally brown , i just recently tried to go blonde .\n",
+        "model": "KV-MemNN",
+        "score": 0.8220136650856886
+    },
+    {
+        "context": "hello how are you this fine day ?\ni am good ! counting the days till i can move out . and you ?\ni'm playing some role playing games online today . i love the internet , probably too much !\nmy job at burger king is taking away all of my video game time .\ni work in fast food also .\nmy coworkers are always complaining i burn the burgers . you aren't my parents !\ni tried to go to school to be a vet . i hated it !\ndo you drink or do drugs ?\ni don't . do you dye your hair ? i do every 3 months .\nok good . but why dye your hair ? that is , like , drugs for your hair .\ni love to dye it blue . red reminds me of blood and i faint from that !\nblue ! ? blue ! ? i hate blue ! ree ! ! !\nwhat color should i dye it ?\n",
+        "response": "blue . i love it . you ?\n",
+        "model": "Seq2Seq",
+        "score": 0.8939266191552002
+    },
+    {
+        "context": "hello how are you this fine day ?\ni am good ! counting the days till i can move out . and you ?\ni'm playing some role playing games online today . i love the internet , probably too much !\nmy job at burger king is taking away all of my video game time .\ni work in fast food also .\nmy coworkers are always complaining i burn the burgers . you aren't my parents !\ni tried to go to school to be a vet . i hated it !\ndo you drink or do drugs ?\ni don't . do you dye your hair ? i do every 3 months .\nok good . but why dye your hair ? that is , like , drugs for your hair .\ni love to dye it blue . red reminds me of blood and i faint from that !\nblue ! ? blue ! ? i hate blue ! ree ! ! !\nwhat color should i dye it ?\n",
+        "response": "i like red , reminds me of summer time .\n",
+        "model": "Language Model",
+        "score": 0.8734676897104663
+    },
+    {
+        "context": "hello how are you this fine day ?\ni am good ! counting the days till i can move out . and you ?\ni'm playing some role playing games online today . i love the internet , probably too much !\nmy job at burger king is taking away all of my video game time .\ni work in fast food also .\nmy coworkers are always complaining i burn the burgers . you aren't my parents !\ni tried to go to school to be a vet . i hated it !\ndo you drink or do drugs ?\ni don't . do you dye your hair ? i do every 3 months .\nok good . but why dye your hair ? that is , like , drugs for your hair .\ni love to dye it blue . red reminds me of blood and i faint from that !\nblue ! ? blue ! ? i hate blue ! ree ! ! !\nwhat color should i dye it ?\n",
+        "response": "you shouldn't dye it at all ! my parents would blow up if i dyed my hair .\n",
+        "model": "New Human Generated",
+        "score": 0.8201207881504703
+    },
+    {
+        "context": "i cant believe the news i just got . my sister is a stripper\nsounds like my kids ! ha . . stay at home dad here , have to laugh somewhere .\nwe grew up christian so its out of character .\ni bet i am sorry . it is an interesting job choice .\nwhat do you do for work ?\n",
+        "response": "i stay home with kids now , prior was in human services .\n",
+        "model": "Original Ground Truth",
+        "score": 0.6685517536727388
+    },
+    {
+        "context": "i cant believe the news i just got . my sister is a stripper\nsounds like my kids ! ha . . stay at home dad here , have to laugh somewhere .\nwe grew up christian so its out of character .\ni bet i am sorry . it is an interesting job choice .\nwhat do you do for work ?\n",
+        "response": "i am into weight lifting . brings home the money .\n",
+        "model": "KV-MemNN",
+        "score": 0.657710846944239
+    },
+    {
+        "context": "i cant believe the news i just got . my sister is a stripper\nsounds like my kids ! ha . . stay at home dad here , have to laugh somewhere .\nwe grew up christian so its out of character .\ni bet i am sorry . it is an interesting job choice .\nwhat do you do for work ?\n",
+        "response": "i work in the tech industry .\n",
+        "model": "Seq2Seq",
+        "score": 0.5527853886756532
+    },
+    {
+        "context": "i cant believe the news i just got . my sister is a stripper\nsounds like my kids ! ha . . stay at home dad here , have to laugh somewhere .\nwe grew up christian so its out of character .\ni bet i am sorry . it is an interesting job choice .\nwhat do you do for work ?\n",
+        "response": "i am a student , but i am a student .\n",
+        "model": "Language Model",
+        "score": 0.5868174621904189
+    },
+    {
+        "context": "i cant believe the news i just got . my sister is a stripper\nsounds like my kids ! ha . . stay at home dad here , have to laugh somewhere .\nwe grew up christian so its out of character .\ni bet i am sorry . it is an interesting job choice .\nwhat do you do for work ?\n",
+        "response": "i spent a decade working in human services .\n",
+        "model": "New Human Generated",
+        "score": 0.6095668360812451
+    },
+    {
+        "context": "i got a big house with 7 rooms\nnice , majority of my time i am on facebook\none time i saw a man fly to the moon\nlike on tv ? i'm obese and unhappy\nwhen i worked in the cia i used facebook to spy on people , handy tool\ni'd love to hear more i work at a retirement home\nobesity is a state of mind , not of body\nthank you for that , you are what you believe ?\nlook energy isn't physical , only spiritual\n",
+        "response": "so , i should be able to lose weight ?\n",
+        "model": "Original Ground Truth",
+        "score": 0.8871017755521817
+    },
+    {
+        "context": "i got a big house with 7 rooms\nnice , majority of my time i am on facebook\none time i saw a man fly to the moon\nlike on tv ? i'm obese and unhappy\nwhen i worked in the cia i used facebook to spy on people , handy tool\ni'd love to hear more i work at a retirement home\nobesity is a state of mind , not of body\nthank you for that , you are what you believe ?\nlook energy isn't physical , only spiritual\n",
+        "response": "do you do any sports ? swimming helps me keep my energy up .\n",
+        "model": "KV-MemNN",
+        "score": 0.8671956368637539
+    },
+    {
+        "context": "i got a big house with 7 rooms\nnice , majority of my time i am on facebook\none time i saw a man fly to the moon\nlike on tv ? i'm obese and unhappy\nwhen i worked in the cia i used facebook to spy on people , handy tool\ni'd love to hear more i work at a retirement home\nobesity is a state of mind , not of body\nthank you for that , you are what you believe ?\nlook energy isn't physical , only spiritual\n",
+        "response": "i am not sure what that means\n",
+        "model": "Seq2Seq",
+        "score": 0.8482632046894752
+    },
+    {
+        "context": "i got a big house with 7 rooms\nnice , majority of my time i am on facebook\none time i saw a man fly to the moon\nlike on tv ? i'm obese and unhappy\nwhen i worked in the cia i used facebook to spy on people , handy tool\ni'd love to hear more i work at a retirement home\nobesity is a state of mind , not of body\nthank you for that , you are what you believe ?\nlook energy isn't physical , only spiritual\n",
+        "response": "i like to eat too much junk food .\n",
+        "model": "Language Model",
+        "score": 0.7349346093915581
+    },
+    {
+        "context": "i got a big house with 7 rooms\nnice , majority of my time i am on facebook\none time i saw a man fly to the moon\nlike on tv ? i'm obese and unhappy\nwhen i worked in the cia i used facebook to spy on people , handy tool\ni'd love to hear more i work at a retirement home\nobesity is a state of mind , not of body\nthank you for that , you are what you believe ?\nlook energy isn't physical , only spiritual\n",
+        "response": "sounds like the type of thing my wife would say . she left me and took the kids .\n",
+        "model": "New Human Generated",
+        "score": 0.8507712030845632
+    },
+    {
+        "context": "hi , i produce rap music for artists , i mostly like rap music .\nhi , i also like rap music . mostly somalian rap .\nyeah , my cat likes rap music too , his name is charlie\ni got a cat named ziggy when i moved to the united states . he likes reggae music .\nlooks like my cat and your cat should introduce themselves\n",
+        "response": "we should have them meet at a cat park so they can have a rap battle .\n",
+        "model": "Original Ground Truth",
+        "score": 0.8742637520301402
+    },
+    {
+        "context": "hi , i produce rap music for artists , i mostly like rap music .\nhi , i also like rap music . mostly somalian rap .\nyeah , my cat likes rap music too , his name is charlie\ni got a cat named ziggy when i moved to the united states . he likes reggae music .\nlooks like my cat and your cat should introduce themselves\n",
+        "response": "my drummer has a cat named system . our fav band is system of a down\n",
+        "model": "KV-MemNN",
+        "score": 0.7843075862945094
+    },
+    {
+        "context": "hi , i produce rap music for artists , i mostly like rap music .\nhi , i also like rap music . mostly somalian rap .\nyeah , my cat likes rap music too , his name is charlie\ni got a cat named ziggy when i moved to the united states . he likes reggae music .\nlooks like my cat and your cat should introduce themselves\n",
+        "response": "i do not know what that means .\n",
+        "model": "Seq2Seq",
+        "score": 0.7806250973933221
+    },
+    {
+        "context": "hi , i produce rap music for artists , i mostly like rap music .\nhi , i also like rap music . mostly somalian rap .\nyeah , my cat likes rap music too , his name is charlie\ni got a cat named ziggy when i moved to the united states . he likes reggae music .\nlooks like my cat and your cat should introduce themselves\n",
+        "response": "i do not know how to play the guitar .\n",
+        "model": "Language Model",
+        "score": 0.7071345816969526
+    },
+    {
+        "context": "hi , i produce rap music for artists , i mostly like rap music .\nhi , i also like rap music . mostly somalian rap .\nyeah , my cat likes rap music too , his name is charlie\ni got a cat named ziggy when i moved to the united states . he likes reggae music .\nlooks like my cat and your cat should introduce themselves\n",
+        "response": "good idea ! i've only recently moved to the united states , so i don't know many people . neither does my cat .\n",
+        "model": "New Human Generated",
+        "score": 0.9081405652056493
+    }
+]

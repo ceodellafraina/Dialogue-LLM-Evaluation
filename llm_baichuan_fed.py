@@ -11,7 +11,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 # ==============================
 # CONFIGURAZIONE
 # ==============================
-MODEL_NAME = "lmsys/vicuna-13b-v1.5"
+MODEL_NAME = "baichuan-inc/Baichuan2-13B-Chat"
 DATA_FILE = "dataset/fed_data.json"
 OUTPUT_FILE = "results/evaluation_results.json"
 
@@ -38,13 +38,15 @@ logging.info(f"Dati caricati: {len(data)} dialoghi trovati.")
 # PROMPT TEMPLATE
 # ==============================
 PROMPT_TEMPLATE = """
-The given response:
-{response}
-
-Is relevant to the given context?
+### Context:
 {context}
 
-Yes or no?
+### Response:
+{response}
+
+### Instruction:
+Above is a dialogue context and the corresponding response.
+Question: Is the response relevant to the context?
 """
 
 def generate_prompt(context, response):

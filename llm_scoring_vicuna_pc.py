@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 # CONFIGURAZIONE
 # ==============================
 MODEL_NAME = "lmsys/vicuna-13b-v1.5"
-DATA_FILE = "dataset/fed_data.json"
+DATA_FILE = "dataset/pc_usr_data.json"
 OUTPUT_FILE = "results/evaluation_results.json"
 
 logging.info(f"Caricamento del modello {MODEL_NAME}...")
@@ -112,16 +112,17 @@ results = []
 logging.info("Inizio elaborazione dei dialoghi...")
 for i, dialogue in enumerate(data):
     context = dialogue.get("context", "")
-    response = dialogue.get("response", "")
-    model_name = dialogue.get("system", "")
-    logging.info(f"Elaborazione dialogo {i+1}, risposta del modello '{model_name}'...")
-    score = calculate_overall_score(context, response)
-    results.append({
-        "context": context,
-        "response": response,
-        "model": model_name,
-        "score": score
-    })
+    for response_data in dialogue.get("responses", []):
+        response = response_data.get("response", "")
+        model_name = response_data.get("model", "")
+        logging.info(f"Elaborazione dialogo {i+1}, risposta del modello '{model_name}'...")
+        score = calculate_overall_score(context, response)
+        results.append({
+            "context": context,
+            "response": response,
+            "model": model_name,
+            "score": score
+        })
 
 # ==============================
 # SALVATAGGIO DEI RISULTATI
