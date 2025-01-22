@@ -33,5 +33,29 @@ This repository contains the implementation of a study inspired by the framework
   - Pearson
   - Kendall-Tau
 
+### 4. Results Analysis
+- Implement a system to evaluate open-domain dialogues (turn-level and dialogue-level) based on their overall quality;
+- Analyze the correlations between LLM scores and human judgments focused exclusively on overall dialogue quality;
+- Evaluate the effectiveness of ensemble techniques in improving alignment with human evaluations for the general quality metric.
 
+## Results
 
+The project delivers:
+
+- An evaluation system for open-domain dialogues;
+- Insights into LLM evaluation effectiveness compared to human judgments.
+
+## Resources
+
+- Base Paper: [A Comprehensive Analysis of the Effectiveness of Large Language Models as Automatic Dialogue Evaluators](https://ojs.aaai.org/index.php/AAAI/article/view/29923/31613)
+  
+- LLM API: [GPT4ALL-Free-GPT-API](https://github.com/selfsff/GPT4ALL-Free-GPT-API)
+
+## How to Use
+
+1. Clone this repository;
+2. Set up the Python environment:
+```bash
+pip install -r requirements.txt
+```
+3. Run evaluation script in "scoring" folder with the provided datasets.
