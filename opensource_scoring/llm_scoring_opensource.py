@@ -10,6 +10,87 @@ For the evaluation of dialogues in the datasets, the following open source model
 Note: To test llama 2, you must request access to the model. For more information: https://huggingface.co/meta-llama/Llama-2-13b-chat
 """
 
+""" The following prompts have been chosen based on the tendency of each model to understand the context and return the "Yes" or "No" token, 
+following their training template: 
+
+
+                                                    === VICUNA ===
+https://ollama.com/library/vicuna:13b/blobs/b1571c5cbd28
+
+PROMPT_TEMPLATE = 
+
+USER: Here is a dialogue:
+
+Dialogue: {context}
+Response: {Response}
+
+Is the response consistent with the dialogue? Reply with "Yes" or "No".
+ASSISTANT:
+
+
+                                                    === BAICHUAN ===
+https://github.com/lm-sys/FastChat/issues/1958
+
+PROMPT_TEMPLATE = 
+Assistant:
+User: Context: {context}
+Response: {response}
+Does this response follow the context correctly? Reply with "Yes" or "No".
+
+
+                                                    === CHATGLM ===
+
+PROMPT_TEMPLATE =
+<|system|>
+You are a helpful assistant that evaluates if a response is consistent with the context.
+<|user|>
+{context}\nResponse: {response}\nDoes this response follow the context correctly?"
+
+<|assistant|>
+
+                                                    === QWEN === 
+
+PROMPT_TEMPLATE= 
+<|im_start|>system
+You are a helpful assistant that evaluates if a response is consistent with the context.
+<|im_end|>
+<|im_start|>user
+Here is the context:
+
+Context: {context}
+Response: {response}
+
+Is the response consistent with the context? Reply with "Yes" or "No".
+<|im_end|>
+<|im_start|>assistant
+
+
+                                                        === LLAMA-2 ===
+
+https://stackoverflow.com/questions/76772509/llama-2-7b-hf-repeats-context-of-question-directly-from-input-prompt-cuts-off-w
+https://huggingface.co/spaces/huggingface-projects/llama-2-13b-chat
+https://ollama.com/library/llama2:13b-chat/blobs/2e0493f67d0c
+
+PROMPT_TEMPLATE =
+
+[INST] <<SYS>>{{ .System }}<</SYS>>
+
+{{ .Prompt }} [/INST]
+
+PROMPT_TEMPLATE = 
+<s>[INST] <<SYS>>
+You are a model trained to evaluate whether a response follows the context of a conversation. Reply with "Yes" if the response follows the context, otherwise reply with "No."
+<</SYS>>
+Below is a dialogue. Evaluate if the response provided by the system is correct with respect to the context.
+
+Context:
+{context}
+
+Response to evaluate: System: {response}
+Does the response follow the context correctly? [/INST]
+
+"""
+
 import json
 import logging
 import torch
@@ -26,7 +107,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 # CONFIGURATION
 # ==============================
 MODEL_NAME = "baichuan-inc/Baichuan2-13B-Chat" 
-DATA_FILE = "dataset/fed_data.json" # If you use 'pc_usr_data.json' check the comments below in the 'processing data' section 
+DATA_FILE = "datasets/fed_data.json" # If you use 'pc_usr_data.json' check the comments below in the 'processing data' section 
 OUTPUT_FILE = "results/evaluation_results.json"
 
 logging.info(f"Loading model {MODEL_NAME}...")
