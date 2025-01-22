@@ -106,7 +106,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 # ==============================
 # CONFIGURATION
 # ==============================
-MODEL_NAME = "baichuan-inc/Baichuan2-13B-Chat" 
+MODEL_NAME = "meta-llama/Llama-2-13b-chat-hf" 
 DATA_FILE = "datasets/fed_data.json" # If you use 'pc_usr_data.json' check the comments below in the 'processing data' section 
 OUTPUT_FILE = "results/evaluation_results.json"
 
@@ -133,13 +133,16 @@ logging.info(f"Data loaded: {len(data)} dialogues found.")
 # PROMPT TEMPLATE
 # ==============================
 PROMPT_TEMPLATE = """
-The given response:
-{response}
+<s>[INST] <<SYS>>
+You are a model trained to evaluate whether a response follows the context of a conversation. Reply with "Yes" if the response follows the context, otherwise reply with "No."
+<</SYS>>
+Below is a dialogue. Evaluate if the response provided by the system is correct with respect to the context.
 
-Is relevant to the given context?
+Context:
 {context}
 
-Yes or no?
+Response to evaluate: System: {response}
+Does the response follow the context correctly? [/INST]
 """
 
 def generate_prompt(context, response):

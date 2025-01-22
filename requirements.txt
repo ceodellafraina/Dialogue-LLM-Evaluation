@@ -1,0 +1,10 @@
+numpy==2.2.2
+openai==1.60.0
+pandas==2.2.3
+scikit_learn==1.6.1
+scipy==1.15.1
+torch==2.5.1
+transformers==4.40.2
+xformers
+tiktoken
+bitsandbytes
