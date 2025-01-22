@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains the implementation of a study inspired by the framework presented in the paper: A Comprehensive Analysis of the Effectiveness of Large Language Models as Automatic Dialogue Evaluators. The goal is to explore and implement a multi-dimensional system for automatic dialogue evaluation using LLMs, analyzing their robustness and effectiveness across various dimensions.
+This repository contains the implementation of a study inspired by the framework presented in the paper: [A Comprehensive Analysis of the Effectiveness of Large Language Models as Automatic Dialogue Evaluators](https://ojs.aaai.org/index.php/AAAI/article/view/29923/31613). The goal is to explore and implement a multi-dimensional system for automatic dialogue evaluation using LLMs, analyzing their robustness and effectiveness across various dimensions.
 
 ## Objectives
 
