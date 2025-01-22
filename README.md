@@ -50,7 +50,7 @@ The project delivers:
 - Base Paper: [A Comprehensive Analysis of the Effectiveness of Large Language Models as Automatic Dialogue Evaluators](https://ojs.aaai.org/index.php/AAAI/article/view/29923/31613)
   
 - Models tested:
-  - [Chatgpt-4]
+  - [Chatgpt-4](https://platform.openai.com/docs/api-reference/introduction)
   - [Chatglm3-6b-base](https://huggingface.co/THUDM/chatglm3-6b-base)
   - [Llama-2-13b-chat](https://huggingface.co/meta-llama/Llama-2-13b-chat-hf)
   - [Qwen-14B-Chat](https://huggingface.co/Qwen/Qwen-14B-Chat)
