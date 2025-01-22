@@ -58,4 +58,4 @@ The project delivers:
 ```bash
 pip install -r requirements.txt
 ```
-3. Run evaluation script in "scoring" folder with the provided datasets.
+3. Run evaluation script in "scoring" folders with the provided datasets.
