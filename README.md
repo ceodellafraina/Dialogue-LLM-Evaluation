@@ -49,7 +49,14 @@ The project delivers:
 
 - Base Paper: [A Comprehensive Analysis of the Effectiveness of Large Language Models as Automatic Dialogue Evaluators](https://ojs.aaai.org/index.php/AAAI/article/view/29923/31613)
   
-- LLM API: [GPT4ALL-Free-GPT-API](https://github.com/selfsff/GPT4ALL-Free-GPT-API)
+- Models tested:
+  - [Chatgpt-4]
+  - [Chatglm3-6b-base](https://huggingface.co/THUDM/chatglm3-6b-base)
+  - [Llama-2-13b-chat](https://huggingface.co/meta-llama/Llama-2-13b-chat-hf)
+  - [Qwen-14B-Chat](https://huggingface.co/Qwen/Qwen-14B-Chat)
+  - [vicuna-13b-v1.5](https://huggingface.co/lmsys/vicuna-13b-v1.5)
+  - [Baichuan2-13B-Chat](https://huggingface.co/baichuan-inc/Baichuan2-13B-Chat)
+
 
 ## How to Use
 
